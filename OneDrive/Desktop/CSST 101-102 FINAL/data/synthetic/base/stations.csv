@@ -1,0 +1,16 @@
+﻿station_id,station_name,station_type,reported_lake_zone,first_source_year,last_source_year,zone_evidence,coordinates_available,station_name_is_real,values_synthetic,data_origin
+LAG-LAKE-01,Stn I - West Bay,lake,West Bay,2016,2025,Lake-zone name stated in the station label,no,yes,yes,project_source_station_metadata
+LAG-LAKE-02,Stn II - East Bay,lake,East Bay,2016,2025,Lake-zone name stated in the station label,no,yes,yes,project_source_station_metadata
+LAG-LAKE-03,Stn IV - Central Bay,lake,Central Bay,2016,2025,Lake-zone name stated in the station label,no,yes,yes,project_source_station_metadata
+LAG-LAKE-04,Stn V - West Bay near Pasig River,lake,West Bay,2016,2025,Lake-zone name stated in the station label,no,yes,yes,project_source_station_metadata
+LAG-LAKE-05,Stn VIII - South Bay,lake,South Bay,2016,2025,Lake-zone name stated in the station label,no,yes,yes,project_source_station_metadata
+LAG-LAKE-06,Stn XV - San Pedro,lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-07,Stn XVI -Sta. Rosa,lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-08,Stn XVII - Sanctuary,lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-09,Stn XVIII - Pagsanjan,lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-10,Stn. XIII (Taytay),lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-11,Stn. XIX (Muntinlupa),lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-12,Stn. XX (GEMS),lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-13,Stn. XXI (Cardona),lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-14,Stn. XXII (Jala-jala),lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata
+LAG-LAKE-15,Stn. XXIII (Lumban),lake,,2016,2025,No lake-zone name in source; no coordinates supplied,no,yes,yes,project_source_station_metadata

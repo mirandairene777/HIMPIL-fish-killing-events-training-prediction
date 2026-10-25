@@ -1,0 +1,476 @@
+station_name,year,n_months,annual_mean_ms
+"Abucay, Bataan",2022,12,1.25
+"Abucay, Bataan",2023,12,1.5
+"Abucay, Bataan",2024,12,1.5833333333333333
+"Alabat, Quezon",2016,12,1.5833333333333333
+"Alabat, Quezon",2017,12,1.5833333333333333
+"Alabat, Quezon",2018,12,1.8333333333333333
+"Alabat, Quezon",2019,12,1.5833333333333333
+"Alabat, Quezon",2020,12,1.5
+"Alabat, Quezon",2021,12,1.8333333333333333
+"Alabat, Quezon",2022,12,1.6666666666666667
+"Alabat, Quezon",2023,12,2.1666666666666665
+"Alabat, Quezon",2024,12,1.8205042639970337
+"Ambulong, Batangas",2016,12,1.5833333333333333
+"Ambulong, Batangas",2017,12,1.75
+"Ambulong, Batangas",2018,12,1.75
+"Ambulong, Batangas",2019,12,2
+"Ambulong, Batangas",2021,12,2.25
+"Ambulong, Batangas",2022,12,1.8333333333333333
+"Ambulong, Batangas",2023,12,2.0833333333333335
+"Ambulong, Batangas",2024,12,2.097012112223458
+"Aparri, Cagayan",2016,12,3.3333333333333335
+"Aparri, Cagayan",2017,12,2.9166666666666665
+"Aparri, Cagayan",2018,12,3.6666666666666665
+"Aparri, Cagayan",2019,12,3.4166666666666665
+"Aparri, Cagayan",2020,12,3.4166666666666665
+"Aparri, Cagayan",2021,12,3
+"Aparri, Cagayan",2022,12,2.8333333333333335
+"Aparri, Cagayan",2023,12,3.4166666666666665
+"Aparri, Cagayan",2024,12,3.2266098133728836
+"Baguio City, Benguet",2016,12,1.8333333333333333
+"Baguio City, Benguet",2017,12,1.8333333333333333
+"Baguio City, Benguet",2018,12,1.75
+"Baguio City, Benguet",2019,12,1.5
+"Baguio City, Benguet",2020,12,1.4166666666666667
+"Baguio City, Benguet",2021,12,1.3333333333333333
+"Baguio City, Benguet",2022,12,1.25
+"Baguio City, Benguet",2023,12,1.25
+"Baguio City, Benguet",2024,12,1.3592324805339266
+"Baler, Aurora (Radar)",2016,12,1.8333333333333333
+"Baler, Aurora (Radar)",2017,12,1.75
+"Baler, Aurora (Radar)",2018,12,1.8333333333333333
+"Baler, Aurora (Radar)",2019,12,1.8333333333333333
+"Baler, Aurora (Radar)",2020,12,1.75
+"Baler, Aurora (Radar)",2021,12,2.1666666666666665
+"Baler, Aurora (Radar)",2022,12,2.0833333333333335
+"Baler, Aurora (Radar)",2023,12,1.6666666666666667
+"Baler, Aurora (Radar)",2024,12,1.5798696082066495
+"Basco, Batanes (Radar)",2016,12,4.833333333333333
+"Basco, Batanes (Radar)",2017,12,4.583333333333333
+"Basco, Batanes (Radar)",2018,12,4.75
+"Basco, Batanes (Radar)",2019,12,4.833333333333333
+"Basco, Batanes (Radar)",2020,12,5.666666666666667
+"Basco, Batanes (Radar)",2021,12,5.833333333333333
+"Basco, Batanes (Radar)",2022,12,5.666666666666667
+"Basco, Batanes (Radar)",2023,12,5.833333333333333
+"Borongan, Eastern Samar",2016,12,1.4166666666666667
+"Borongan, Eastern Samar",2017,12,1.5
+"Borongan, Eastern Samar",2018,12,1.3333333333333333
+"Borongan, Eastern Samar",2019,12,1.3333333333333333
+"Borongan, Eastern Samar",2020,12,1.3333333333333333
+"Borongan, Eastern Samar",2021,12,1.0833333333333333
+"Borongan, Eastern Samar",2022,12,1.1666666666666667
+"Borongan, Eastern Samar",2023,12,1.25
+"Borongan, Eastern Samar",2024,12,1.250027808676307
+"Butuan City, Agusan Del Norte",2016,12,2
+"Butuan City, Agusan Del Norte",2017,12,2
+"Butuan City, Agusan Del Norte",2018,12,1.9166666666666667
+"Butuan City, Agusan Del Norte",2019,12,2
+"Butuan City, Agusan Del Norte",2020,12,1.8333333333333333
+"Butuan City, Agusan Del Norte",2021,12,1.5833333333333333
+"Butuan City, Agusan Del Norte",2022,12,1.75
+"Butuan City, Agusan Del Norte",2023,12,1.6666666666666667
+"Butuan City, Agusan Del Norte",2024,12,1.6848411815597577
+"CLSU, Nueva Ecija",2019,12,2.25
+"CLSU, Nueva Ecija",2020,12,2.25
+"CLSU, Nueva Ecija",2021,12,2.4166666666666665
+"CLSU, Nueva Ecija",2022,12,2.3333333333333335
+"CLSU, Nueva Ecija",2023,12,2.3333333333333335
+"CLSU, Nueva Ecija",2024,12,2.323992707947102
+"Cabanatuan, Nueva Ecija",2016,12,1
+"Cabanatuan, Nueva Ecija",2017,12,1.25
+"Cabanatuan, Nueva Ecija",2018,12,1.3333333333333333
+"Calapan, Oriental Mindoro",2016,12,1.4166666666666667
+"Calapan, Oriental Mindoro",2017,12,1.25
+"Calapan, Oriental Mindoro",2018,12,1.0833333333333333
+"Calapan, Oriental Mindoro",2019,12,1.5
+"Calapan, Oriental Mindoro",2020,12,1.25
+"Calapan, Oriental Mindoro",2021,12,1.5
+"Calapan, Oriental Mindoro",2022,12,1.0833333333333333
+"Calapan, Oriental Mindoro",2023,12,1.25
+"Calapan, Oriental Mindoro",2024,12,1.2131380546285997
+"Calayan, Cagayan",2016,12,3.5
+"Calayan, Cagayan",2017,12,3.8333333333333335
+"Calayan, Cagayan",2019,12,3.0833333333333335
+"Calayan, Cagayan",2020,12,4.083333333333333
+"Calayan, Cagayan",2021,12,4.166666666666667
+"Calayan, Cagayan",2022,12,3.4166666666666665
+"Calayan, Cagayan",2023,12,3.6666666666666665
+"Calayan, Cagayan",2024,12,3.4313558274626126
+"Casiguran, Aurora",2016,12,2
+"Casiguran, Aurora",2017,12,2
+"Casiguran, Aurora",2018,12,1.9166666666666667
+"Casiguran, Aurora",2019,12,1.5833333333333333
+"Casiguran, Aurora",2020,12,1.6666666666666667
+"Casiguran, Aurora",2021,12,1.9166666666666667
+"Casiguran, Aurora",2022,12,1.5
+"Casiguran, Aurora",2023,12,1.8333333333333333
+"Casiguran, Aurora",2024,12,1.6233778272154247
+"Catarman, Northern Samar",2016,12,2.0833333333333335
+"Catarman, Northern Samar",2017,12,2.1666666666666665
+"Catarman, Northern Samar",2018,12,2.5833333333333335
+"Catarman, Northern Samar",2019,12,2.4166666666666665
+"Catarman, Northern Samar",2020,12,2.25
+"Catarman, Northern Samar",2021,12,2.4166666666666665
+"Catarman, Northern Samar",2022,12,2.1666666666666665
+"Catarman, Northern Samar",2023,12,2.5
+"Catarman, Northern Samar",2024,12,2.143279569892473
+"Catbalogan, Western Samar",2016,12,1.0833333333333333
+"Catbalogan, Western Samar",2017,12,1
+"Catbalogan, Western Samar",2018,12,1.25
+"Catbalogan, Western Samar",2019,12,1.3333333333333333
+"Catbalogan, Western Samar",2020,12,1
+"Catbalogan, Western Samar",2021,12,1.0833333333333333
+"Catbalogan, Western Samar",2022,12,1
+"Catbalogan, Western Samar",2023,12,1.25
+"Catbalogan, Western Samar",2024,12,1.2294401186503523
+"Clark International Airport, Pampanga",2016,12,2.3333333333333335
+"Clark International Airport, Pampanga",2017,12,2.4166666666666665
+"Clark International Airport, Pampanga",2018,12,2.25
+"Clark International Airport, Pampanga",2019,12,2.0833333333333335
+"Clark International Airport, Pampanga",2020,12,2.4166666666666665
+"Clark International Airport, Pampanga",2021,12,2
+"Clark International Airport, Pampanga",2022,12,2
+"Clark International Airport, Pampanga",2023,12,2
+"Clark International Airport, Pampanga",2024,12,2.1621462118403163
+"Coron, Palawan",2016,12,2.25
+"Coron, Palawan",2019,12,2.9166666666666665
+"Coron, Palawan",2021,12,2.5
+"Coron, Palawan",2022,12,2.4166666666666665
+"Cotabato City, Maguindanao",2016,12,2
+"Cotabato City, Maguindanao",2017,12,2
+"Cotabato City, Maguindanao",2018,12,2
+"Cotabato City, Maguindanao",2019,12,2
+"Cotabato City, Maguindanao",2020,12,1.9166666666666667
+"Cotabato City, Maguindanao",2021,12,2
+"Cotabato City, Maguindanao",2022,12,2
+"Cotabato City, Maguindanao",2023,12,2
+"Cotabato City, Maguindanao",2024,12,2.0194691632678285
+"Cubi Point, Subic Bay Olongapo City, Zambales",2016,12,3.25
+"Cubi Point, Subic Bay Olongapo City, Zambales",2017,12,3.3333333333333335
+"Cubi Point, Subic Bay Olongapo City, Zambales",2018,12,3.6666666666666665
+"Cubi Point, Subic Bay Olongapo City, Zambales",2019,12,3.5
+"Cubi Point, Subic Bay Olongapo City, Zambales",2020,12,3.5
+"Cubi Point, Subic Bay Olongapo City, Zambales",2021,12,3.5833333333333335
+"Cubi Point, Subic Bay Olongapo City, Zambales",2022,12,3.25
+"Cubi Point, Subic Bay Olongapo City, Zambales",2023,12,3.6666666666666665
+"Cubi Point, Subic Bay Olongapo City, Zambales",2024,12,3.611200716845878
+"Cuyo, Palawan",2016,12,1.8333333333333333
+"Cuyo, Palawan",2019,12,2.5
+"Cuyo, Palawan",2020,12,2.1666666666666665
+"Cuyo, Palawan",2021,12,2.3333333333333335
+"Cuyo, Palawan",2022,12,2.75
+"Cuyo, Palawan",2023,12,2.8333333333333335
+"Cuyo, Palawan",2024,12,2.293690520331232
+"Daet, Camarines Norte",2016,12,2.8333333333333335
+"Daet, Camarines Norte",2017,12,2.5833333333333335
+"Daet, Camarines Norte",2018,12,2.6666666666666665
+"Daet, Camarines Norte",2019,12,2.5833333333333335
+"Daet, Camarines Norte",2020,12,2.75
+"Daet, Camarines Norte",2021,12,3.0833333333333335
+"Daet, Camarines Norte",2022,12,1.9166666666666667
+"Daet, Camarines Norte",2023,12,2
+"Daet, Camarines Norte",2024,12,2.1590656284760845
+"Dagupan City, Pangasinan",2016,12,2.0833333333333335
+"Dagupan City, Pangasinan",2017,12,2
+"Dagupan City, Pangasinan",2018,12,2.3333333333333335
+"Dagupan City, Pangasinan",2019,12,2.4166666666666665
+"Dagupan City, Pangasinan",2020,12,3
+"Dagupan City, Pangasinan",2021,12,2.75
+"Dagupan City, Pangasinan",2022,12,2.9166666666666665
+"Dagupan City, Pangasinan",2023,12,3.3333333333333335
+"Dagupan City, Pangasinan",2024,12,3.5703621307625757
+"Dauis, Bohol",2016,12,2.25
+"Dauis, Bohol",2017,12,2.1666666666666665
+"Dauis, Bohol",2018,12,1.75
+"Dauis, Bohol",2019,12,1.4166666666666667
+"Dauis, Bohol",2020,12,1.25
+"Dauis, Bohol",2021,12,1.4166666666666667
+"Dauis, Bohol",2022,12,2
+"Davao City, Davao Del Sur",2016,12,2.1666666666666665
+"Davao City, Davao Del Sur",2017,12,2
+"Davao City, Davao Del Sur",2018,12,2
+"Davao City, Davao Del Sur",2019,12,2
+"Davao City, Davao Del Sur",2020,12,2.0833333333333335
+"Davao City, Davao Del Sur",2021,12,2.0833333333333335
+"Davao City, Davao Del Sur",2022,12,2.1666666666666665
+"Davao City, Davao Del Sur",2023,12,2.4166666666666665
+"Davao City, Davao Del Sur",2024,12,2.321378692374243
+"Dipolog, Zamboanga Del Norte",2016,12,2
+"Dipolog, Zamboanga Del Norte",2017,12,2
+"Dipolog, Zamboanga Del Norte",2018,12,1.9166666666666667
+"Dipolog, Zamboanga Del Norte",2019,12,2.1666666666666665
+"Dipolog, Zamboanga Del Norte",2020,12,1.8333333333333333
+"Dipolog, Zamboanga Del Norte",2021,12,1.6666666666666667
+"Dipolog, Zamboanga Del Norte",2022,12,1.8333333333333333
+"Dipolog, Zamboanga Del Norte",2023,12,1.8333333333333333
+"Dipolog, Zamboanga Del Norte",2024,12,2.1016345321962673
+"Dumaguete City, Negros Oriental",2016,12,2.5833333333333335
+"Dumaguete City, Negros Oriental",2017,12,2.75
+"Dumaguete City, Negros Oriental",2018,12,2.1666666666666665
+"Dumaguete City, Negros Oriental",2019,12,2.5
+"Dumaguete City, Negros Oriental",2020,12,3
+"Dumaguete City, Negros Oriental",2021,12,2.8333333333333335
+"Dumaguete City, Negros Oriental",2022,12,3.1666666666666665
+"Dumaguete City, Negros Oriental",2023,12,3.3333333333333335
+"Dumaguete City, Negros Oriental",2024,12,3.167460758867878
+"General Santos, South Cotabato",2016,12,1.8333333333333333
+"General Santos, South Cotabato",2017,12,1.5
+"General Santos, South Cotabato",2018,12,1.8333333333333333
+"General Santos, South Cotabato",2019,12,2.1666666666666665
+"General Santos, South Cotabato",2020,12,2
+"General Santos, South Cotabato",2021,12,1.9166666666666667
+"General Santos, South Cotabato",2023,12,2
+"General Santos, South Cotabato",2024,12,2.3194320850327523
+"Guiuan, Eastern Samar",2016,12,4.916666666666667
+"Guiuan, Eastern Samar",2017,12,5
+"Guiuan, Eastern Samar",2018,12,5.416666666666667
+"Guiuan, Eastern Samar",2019,12,5
+"Guiuan, Eastern Samar",2020,12,5.166666666666667
+"Guiuan, Eastern Samar",2021,12,5.583333333333333
+"Guiuan, Eastern Samar",2022,12,5
+"Guiuan, Eastern Samar",2023,12,5.083333333333333
+"Guiuan, Eastern Samar",2024,12,4.6720337411939195
+"Hinatuan, Surigao Del Sur",2016,12,2
+"Hinatuan, Surigao Del Sur",2017,12,2.0833333333333335
+"Hinatuan, Surigao Del Sur",2018,12,2
+"Hinatuan, Surigao Del Sur",2019,12,2.3333333333333335
+"Hinatuan, Surigao Del Sur",2020,12,2.25
+"Hinatuan, Surigao Del Sur",2021,12,2
+"Hinatuan, Surigao Del Sur",2022,12,1.8333333333333333
+"Iba, Zambales",2016,12,2.4166666666666665
+"Iba, Zambales",2017,12,2.3333333333333335
+"Iba, Zambales",2018,12,2.25
+"Iba, Zambales",2019,12,2.0833333333333335
+"Iba, Zambales",2020,12,2
+"Iba, Zambales",2021,12,2.1666666666666665
+"Iba, Zambales",2022,12,2
+"Iba, Zambales",2023,12,2.1666666666666665
+"Iba, Zambales",2024,12,2.7916172290198986
+"Infanta, Quezon",2016,12,2.1666666666666665
+"Infanta, Quezon",2017,12,1.8333333333333333
+"Infanta, Quezon",2018,12,2
+"Infanta, Quezon",2019,12,1.6666666666666667
+"Infanta, Quezon",2020,12,1.5833333333333333
+"Infanta, Quezon",2021,12,2.0833333333333335
+"Infanta, Quezon",2022,12,1.6666666666666667
+"Infanta, Quezon",2023,12,1.6666666666666667
+"Infanta, Quezon",2024,12,1.7120380669880113
+"Itbayat, Batanes",2016,12,3.0833333333333335
+"Itbayat, Batanes",2017,12,3.3333333333333335
+"Itbayat, Batanes",2018,12,3.25
+"Itbayat, Batanes",2020,12,3.1666666666666665
+"Itbayat, Batanes",2021,12,3.1666666666666665
+"Itbayat, Batanes",2022,12,3
+"Itbayat, Batanes",2023,12,4.25
+"Itbayat, Batanes",2024,12,4.109006921270548
+"Juban, Sorsogon",2016,12,2.25
+"Juban, Sorsogon",2017,12,2.1666666666666665
+"Juban, Sorsogon",2018,12,2.0833333333333335
+"Juban, Sorsogon",2019,12,2.1666666666666665
+"Juban, Sorsogon",2020,12,2.1666666666666665
+"Juban, Sorsogon",2021,12,2.3333333333333335
+"Juban, Sorsogon",2022,12,1.9166666666666667
+"Juban, Sorsogon",2023,12,2.1666666666666665
+"Juban, Sorsogon",2024,12,2.574514893091089
+"Laguindingan Airport, Misamis Oriental",2024,12,3
+"Laguindingan, Misamis Oriental",2022,12,2.4166666666666665
+"Laguindingan, Misamis Oriental",2023,12,2.3333333333333335
+"Laoag City, Ilocos Norte",2016,12,3.0833333333333335
+"Laoag City, Ilocos Norte",2017,12,2.5
+"Laoag City, Ilocos Norte",2018,12,2.3333333333333335
+"Laoag City, Ilocos Norte",2019,12,2.75
+"Laoag City, Ilocos Norte",2020,12,2.6666666666666665
+"Laoag City, Ilocos Norte",2021,12,2.6666666666666665
+"Laoag City, Ilocos Norte",2022,12,2.5
+"Laoag City, Ilocos Norte",2023,12,3.1666666666666665
+"Laoag City, Ilocos Norte",2024,12,2.6949604498825854
+"Legazpi City, Albay",2016,12,2.1666666666666665
+"Legazpi City, Albay",2017,12,2.1666666666666665
+"Legazpi City, Albay",2018,12,2.0833333333333335
+"Legazpi City, Albay",2019,12,2.0833333333333335
+"Legazpi City, Albay",2020,12,1.8333333333333333
+"Legazpi City, Albay",2021,12,2.0833333333333335
+"Legazpi City, Albay",2022,12,1.5833333333333333
+"Legazpi City, Albay",2023,12,1.9166666666666667
+"Legazpi City, Albay",2024,12,1.506924360400445
+"Maasin, Southern Leyte",2016,12,1.75
+"Maasin, Southern Leyte",2017,12,1.5833333333333333
+"Maasin, Southern Leyte",2018,12,2
+"Maasin, Southern Leyte",2019,12,2.1666666666666665
+"Maasin, Southern Leyte",2020,12,2.0833333333333335
+"Maasin, Southern Leyte",2022,12,2.0833333333333335
+"Maasin, Southern Leyte",2023,12,2.1666666666666665
+"Maasin, Southern Leyte",2024,12,2.378482264244222
+"Mactan International Airport, Cebu",2016,12,3
+"Mactan International Airport, Cebu",2017,12,3
+"Mactan International Airport, Cebu",2018,12,3.5833333333333335
+"Mactan International Airport, Cebu",2019,12,3.25
+"Mactan International Airport, Cebu",2020,12,3
+"Mactan International Airport, Cebu",2021,12,3.3333333333333335
+"Mactan International Airport, Cebu",2022,12,3.25
+"Mactan International Airport, Cebu",2023,12,3.5
+"Mactan International Airport, Cebu",2024,12,3.3504325794092202
+"Malaybalay, Bukidnon",2016,12,1
+"Malaybalay, Bukidnon",2017,12,1
+"Malaybalay, Bukidnon",2018,12,1
+"Malaybalay, Bukidnon",2019,12,1
+"Malaybalay, Bukidnon",2020,12,1
+"Malaybalay, Bukidnon",2021,12,1
+"Malaybalay, Bukidnon",2022,12,1
+"Malaybalay, Bukidnon",2023,12,1
+"Malaybalay, Bukidnon",2024,12,0.97831541218638
+"Masbate, Masbate",2016,12,1.1666666666666667
+"Masbate, Masbate",2017,12,1.5
+"Masbate, Masbate",2018,12,1.3333333333333333
+"Masbate, Masbate",2019,12,1.5
+"Masbate, Masbate",2020,12,1.6666666666666667
+"Masbate, Masbate",2021,12,1.3333333333333333
+"Masbate, Masbate",2022,12,1.25
+"Masbate, Masbate",2023,12,1.5833333333333333
+"Masbate, Masbate",2024,12,1.5796687677666543
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2016,12,2
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2017,12,1.8333333333333333
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2018,12,1.3333333333333333
+"Molugan-El Salvador, Misamis Oriental (former Lumbia Station)",2019,12,1.5833333333333333
+"Mulanay, Quezon",2024,12,2.043644172537387
+"NAIA (MIA), Pasay City",2016,12,2.6666666666666665
+"NAIA (MIA), Pasay City",2017,12,2.5
+"NAIA (MIA), Pasay City",2018,12,2.9166666666666665
+"NAIA (MIA), Pasay City",2019,12,3.1666666666666665
+"NAIA (MIA), Pasay City",2021,12,2.5833333333333335
+"NAIA (MIA), Pasay City",2022,12,2.5833333333333335
+"NAIA (MIA), Pasay City",2023,12,2.9166666666666665
+"NAIA (MIA), Pasay City",2024,12,2.9054072426152517
+"Panglao, Bohol",2024,12,2.4166048696082068
+"Port Area (MCO), Manila",2016,12,2.75
+"Port Area (MCO), Manila",2017,12,2.5
+"Port Area (MCO), Manila",2018,12,2.3333333333333335
+"Port Area (MCO), Manila",2019,12,2.6666666666666665
+"Port Area (MCO), Manila",2021,12,2.4166666666666665
+"Port Area (MCO), Manila",2022,12,2.4166666666666665
+"Puerto Princesa City, Palawan",2016,12,3.3333333333333335
+"Puerto Princesa City, Palawan",2017,12,3
+"Puerto Princesa City, Palawan",2018,12,3.25
+"Puerto Princesa City, Palawan",2019,12,3.1666666666666665
+"Puerto Princesa City, Palawan",2020,12,3.1666666666666665
+"Puerto Princesa City, Palawan",2021,12,3.5833333333333335
+"Puerto Princesa City, Palawan",2022,12,3.5833333333333335
+"Puerto Princesa City, Palawan",2023,12,3.8333333333333335
+"Puerto Princesa City, Palawan",2024,12,3.892636880484489
+"Romblon, Romblon",2016,12,2.3333333333333335
+"Romblon, Romblon",2017,12,2.0833333333333335
+"Romblon, Romblon",2018,12,2.5
+"Romblon, Romblon",2019,12,2.3333333333333335
+"Romblon, Romblon",2020,12,1.9166666666666667
+"Romblon, Romblon",2022,12,1.9166666666666667
+"Romblon, Romblon",2023,12,2.1666666666666665
+"Romblon, Romblon",2024,12,1.9397385984427142
+"Roxas City, Capiz",2016,12,2.8333333333333335
+"Roxas City, Capiz",2017,12,2.8333333333333335
+"Roxas City, Capiz",2018,12,3.3333333333333335
+"Roxas City, Capiz",2019,12,3.25
+"Roxas City, Capiz",2020,12,3.3333333333333335
+"Roxas City, Capiz",2021,12,2.9166666666666665
+"Roxas City, Capiz",2022,12,2.75
+"Roxas City, Capiz",2023,12,2.6666666666666665
+"Roxas City, Capiz",2024,12,3.129464837473736
+"San Jose, Occidental Mindoro",2016,12,2.4166666666666665
+"San Jose, Occidental Mindoro",2017,12,2.4166666666666665
+"San Jose, Occidental Mindoro",2018,12,2.4166666666666665
+"San Jose, Occidental Mindoro",2019,12,2.5
+"San Jose, Occidental Mindoro",2020,12,2.5
+"San Jose, Occidental Mindoro",2021,12,2.5
+"San Jose, Occidental Mindoro",2022,12,2.5
+"San Jose, Occidental Mindoro",2023,12,2.5833333333333335
+"San Jose, Occidental Mindoro",2024,12,3.2040878754171302
+"Sangley Point, Cavite",2016,12,3.25
+"Sangley Point, Cavite",2017,12,3.25
+"Sangley Point, Cavite",2018,12,3
+"Sangley Point, Cavite",2019,12,3
+"Sangley Point, Cavite",2020,12,2.5833333333333335
+"Sangley Point, Cavite",2021,12,2.5833333333333335
+"Sangley Point, Cavite",2022,12,2.8333333333333335
+"Sangley Point, Cavite",2023,12,3.25
+"Sangley Point, Cavite",2024,12,3.210848473612656
+"Science Garden, Quezon City",2016,12,1
+"Science Garden, Quezon City",2017,12,1
+"Science Garden, Quezon City",2018,12,1.1666666666666667
+"Science Garden, Quezon City",2019,12,1.1666666666666667
+"Science Garden, Quezon City",2020,12,1
+"Science Garden, Quezon City",2021,12,1
+"Science Garden, Quezon City",2022,12,1
+"Science Garden, Quezon City",2023,12,1
+"Science Garden, Quezon City",2024,12,1.2330490668644172
+"Sinait, Ilocos Sur (former Vigan Station)",2016,12,2
+"Sinait, Ilocos Sur (former Vigan Station)",2017,12,2
+"Sinait, Ilocos Sur (former Vigan Station)",2018,12,2.0833333333333335
+"Sinait, Ilocos Sur (former Vigan Station)",2019,12,1.9166666666666667
+"Sinait, Ilocos Sur (former Vigan Station)",2020,12,1.5
+"Sinait, Ilocos Sur (former Vigan Station)",2021,12,1.4166666666666667
+"Sinait, Ilocos Sur (former Vigan Station)",2022,12,1.3333333333333333
+"Sinait, Ilocos Sur (former Vigan Station)",2023,12,1.4166666666666667
+"Sinait, Ilocos Sur (former Vigan Station)",2024,12,1.4615251514027932
+"Surigao, Surigao Del Norte",2016,12,1.4166666666666667
+"Surigao, Surigao Del Norte",2017,12,1.5833333333333333
+"Surigao, Surigao Del Norte",2018,12,1.5833333333333333
+"Surigao, Surigao Del Norte",2019,12,1.5
+"Surigao, Surigao Del Norte",2020,12,1.6666666666666667
+"Surigao, Surigao Del Norte",2021,12,1.5833333333333333
+"Surigao, Surigao Del Norte",2022,12,2.3333333333333335
+"Surigao, Surigao Del Norte",2023,12,2.1666666666666665
+"Surigao, Surigao Del Norte",2024,12,2.2326350265727353
+"Tacloban City, Leyte",2016,12,1.0833333333333333
+"Tacloban City, Leyte",2017,12,1.0833333333333333
+"Tacloban City, Leyte",2018,12,1
+"Tacloban City, Leyte",2019,12,1.6666666666666667
+"Tacloban City, Leyte",2020,12,2.3333333333333335
+"Tacloban City, Leyte",2021,12,2.3333333333333335
+"Tacloban City, Leyte",2022,12,2.3333333333333335
+"Tacloban City, Leyte",2023,12,2.5833333333333335
+"Tacloban City, Leyte",2024,12,2.7658354962303795
+"Tanay, Rizal",2016,12,3.9166666666666665
+"Tanay, Rizal",2017,12,3.0833333333333335
+"Tanay, Rizal",2018,12,3.25
+"Tanay, Rizal",2019,12,3.5833333333333335
+"Tanay, Rizal",2020,12,3
+"Tanay, Rizal",2021,12,3.5
+"Tanay, Rizal",2022,12,3.25
+"Tanay, Rizal",2023,12,3.3333333333333335
+"Tanay, Rizal",2024,12,3.3846434309726856
+"Tayabas, Quezon",2016,12,1.5
+"Tayabas, Quezon",2017,12,2.1666666666666665
+"Tayabas, Quezon",2018,12,2.4166666666666665
+"Tayabas, Quezon",2019,12,2
+"Tayabas, Quezon",2020,12,2.1666666666666665
+"Tayabas, Quezon",2021,12,2.25
+"Tayabas, Quezon",2022,12,2.1666666666666665
+"Tayabas, Quezon",2023,12,1.9166666666666667
+"Tayabas, Quezon",2024,12,1.7921703126931157
+"Tuguegarao, Cagayan",2016,12,1
+"Tuguegarao, Cagayan",2017,12,1
+"Tuguegarao, Cagayan",2018,12,1.1666666666666667
+"Tuguegarao, Cagayan",2019,12,1.3333333333333333
+"Tuguegarao, Cagayan",2020,12,1.0833333333333333
+"Tuguegarao, Cagayan",2022,12,1.0833333333333333
+"Tuguegarao, Cagayan",2023,12,1.25
+"Tuguegarao, Cagayan",2024,12,1.2739679891237177
+"Virac Synop, Catanduanes",2016,12,2.5833333333333335
+"Virac Synop, Catanduanes",2017,12,2.75
+"Virac Synop, Catanduanes",2018,12,2.1666666666666665
+"Virac Synop, Catanduanes",2019,12,2.1666666666666665
+"Virac Synop, Catanduanes",2020,12,2.3333333333333335
+"Virac Synop, Catanduanes",2021,12,2.5
+"Virac Synop, Catanduanes",2022,12,2.5
+"Virac Synop, Catanduanes",2023,12,2.0833333333333335
+"Virac Synop, Catanduanes",2024,12,2.182548510690891
+"Zamboanga, Zamboanga Del Sur",2016,12,1
+"Zamboanga, Zamboanga Del Sur",2017,12,1.1666666666666667
+"Zamboanga, Zamboanga Del Sur",2018,12,1.5
+"Zamboanga, Zamboanga Del Sur",2019,12,1.25
+"Zamboanga, Zamboanga Del Sur",2020,12,1.8333333333333333
+"Zamboanga, Zamboanga Del Sur",2021,12,2
+"Zamboanga, Zamboanga Del Sur",2022,12,2.0833333333333335
+"Zamboanga, Zamboanga Del Sur",2023,12,2.0833333333333335
+"Zamboanga, Zamboanga Del Sur",2024,12,2.293879001359535

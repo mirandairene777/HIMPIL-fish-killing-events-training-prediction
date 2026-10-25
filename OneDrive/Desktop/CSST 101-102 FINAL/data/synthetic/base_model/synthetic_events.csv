@@ -1,0 +1,31 @@
+﻿event_id,event_start_date,event_end_date,affected_stations,period_type,scale,data_origin,note
+SYN-BASE-EVT-2016-01,2016-03-08,2016-03-10,LAG-LAKE-01;LAG-LAKE-02;LAG-LAKE-03;LAG-LAKE-04;LAG-LAKE-05,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2016-02,2016-06-10,2016-06-12,LAG-LAKE-04;LAG-LAKE-05;LAG-LAKE-06;LAG-LAKE-07;LAG-LAKE-08,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2016-01,2016-08-12,2016-08-14,LAG-LAKE-15;LAG-LAKE-01;LAG-LAKE-02,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2017-01,2017-03-11,2017-03-13,LAG-LAKE-07;LAG-LAKE-08;LAG-LAKE-09;LAG-LAKE-10;LAG-LAKE-11,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2017-02,2017-06-15,2017-06-17,LAG-LAKE-10;LAG-LAKE-11;LAG-LAKE-12;LAG-LAKE-13;LAG-LAKE-14,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2017-01,2017-08-14,2017-08-16,LAG-LAKE-06;LAG-LAKE-07;LAG-LAKE-08,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2018-01,2018-03-14,2018-03-16,LAG-LAKE-13;LAG-LAKE-14;LAG-LAKE-15;LAG-LAKE-01;LAG-LAKE-02,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2018-02,2018-06-20,2018-06-22,LAG-LAKE-01;LAG-LAKE-02;LAG-LAKE-03;LAG-LAKE-04;LAG-LAKE-05,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2018-01,2018-08-16,2018-08-18,LAG-LAKE-12;LAG-LAKE-13;LAG-LAKE-14,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2019-01,2019-03-17,2019-03-19,LAG-LAKE-04;LAG-LAKE-05;LAG-LAKE-06;LAG-LAKE-07;LAG-LAKE-08,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2019-02,2019-06-25,2019-06-27,LAG-LAKE-07;LAG-LAKE-08;LAG-LAKE-09;LAG-LAKE-10;LAG-LAKE-11,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2019-01,2019-08-18,2019-08-20,LAG-LAKE-03;LAG-LAKE-04;LAG-LAKE-05,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2020-01,2020-03-20,2020-03-22,LAG-LAKE-10;LAG-LAKE-11;LAG-LAKE-12;LAG-LAKE-13;LAG-LAKE-14,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2020-02,2020-06-13,2020-06-15,LAG-LAKE-13;LAG-LAKE-14;LAG-LAKE-15;LAG-LAKE-01;LAG-LAKE-02,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2020-01,2020-08-20,2020-08-22,LAG-LAKE-09;LAG-LAKE-10;LAG-LAKE-11,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2021-01,2021-03-23,2021-03-25,LAG-LAKE-01;LAG-LAKE-02;LAG-LAKE-03;LAG-LAKE-04;LAG-LAKE-05,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2021-02,2021-06-18,2021-06-20,LAG-LAKE-04;LAG-LAKE-05;LAG-LAKE-06;LAG-LAKE-07;LAG-LAKE-08,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2021-01,2021-08-12,2021-08-14,LAG-LAKE-15;LAG-LAKE-01;LAG-LAKE-02,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2022-01,2022-03-09,2022-03-11,LAG-LAKE-07;LAG-LAKE-08;LAG-LAKE-09;LAG-LAKE-10;LAG-LAKE-11,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2022-02,2022-06-23,2022-06-25,LAG-LAKE-10;LAG-LAKE-11;LAG-LAKE-12;LAG-LAKE-13;LAG-LAKE-14,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2022-01,2022-08-14,2022-08-16,LAG-LAKE-06;LAG-LAKE-07;LAG-LAKE-08,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2023-01,2023-03-12,2023-03-14,LAG-LAKE-13;LAG-LAKE-14;LAG-LAKE-15;LAG-LAKE-01;LAG-LAKE-02,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2023-02,2023-06-11,2023-06-13,LAG-LAKE-01;LAG-LAKE-02;LAG-LAKE-03;LAG-LAKE-04;LAG-LAKE-05,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2023-01,2023-08-16,2023-08-18,LAG-LAKE-12;LAG-LAKE-13;LAG-LAKE-14,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2024-01,2024-03-15,2024-03-17,LAG-LAKE-04;LAG-LAKE-05;LAG-LAKE-06;LAG-LAKE-07;LAG-LAKE-08,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2024-02,2024-06-16,2024-06-18,LAG-LAKE-07;LAG-LAKE-08;LAG-LAKE-09;LAG-LAKE-10;LAG-LAKE-11,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2024-01,2024-08-18,2024-08-20,LAG-LAKE-03;LAG-LAKE-04;LAG-LAKE-05,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.
+SYN-BASE-EVT-2025-01,2025-03-18,2025-03-20,LAG-LAKE-10;LAG-LAKE-11;LAG-LAKE-12;LAG-LAKE-13;LAG-LAKE-14,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-EVT-2025-02,2025-06-21,2025-06-23,LAG-LAKE-13;LAG-LAKE-14;LAG-LAKE-15;LAG-LAKE-01;LAG-LAKE-02,synthetic_event,1.0,synthetic_base_v1_event_overlay,Simulated event; not a real Laguna de Bay fish-kill.
+SYN-BASE-STRESS-2025-01,2025-08-20,2025-08-22,LAG-LAKE-09;LAG-LAKE-10;LAG-LAKE-11,synthetic_stress_without_event,0.45,synthetic_base_v1_event_overlay,Simulated high-stress period with no event label.

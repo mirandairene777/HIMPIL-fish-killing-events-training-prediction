@@ -1,0 +1,16 @@
+﻿station_id,station_name,station_type,reported_lake_zone,lake_zone,zone_source,latitude,longitude,coordinate_source,coordinate_uncertainty_km,data_origin
+LAG-LAKE-01,Stn I - West Bay,lake,West Bay,West Bay,reported_station_label,14.434169,121.105429,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-02,Stn II - East Bay,lake,East Bay,East Bay,reported_station_label,14.379169,121.340429,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-03,Stn IV - Central Bay,lake,Central Bay,Central Bay,reported_station_label,14.404169,121.220429,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-04,Stn V - West Bay near Pasig River,lake,West Bay,West Bay,reported_station_label,14.449561,121.07458,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-05,Stn VIII - South Bay,lake,South Bay,South Bay,reported_station_label,14.289169,121.200429,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-06,Stn XV - San Pedro,lake,,South Bay,synthetic_crosswalk_from_station_name,14.299855,121.157592,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-07,Stn XVI -Sta. Rosa,lake,,South Bay,synthetic_crosswalk_from_station_name,14.265975,121.166979,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-08,Stn XVII - Sanctuary,lake,,Central Bay,synthetic_crosswalk_from_station_name,14.414855,121.177592,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-09,Stn XVIII - Pagsanjan,lake,,East Bay,synthetic_crosswalk_from_station_name,14.394892,121.317703,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-10,Stn. XIII (Taytay),lake,,West Bay,synthetic_crosswalk_from_station_name,14.425831,121.054571,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-11,Stn. XIX (Muntinlupa),lake,,West Bay,synthetic_crosswalk_from_station_name,14.410439,121.08542,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-12,Stn. XX (GEMS),lake,,Central Bay,synthetic_crosswalk_from_station_name,14.380975,121.186979,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-13,Stn. XXI (Cardona),lake,,East Bay,synthetic_crosswalk_from_station_name,14.383124,121.291242,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-14,Stn. XXII (Jala-jala),lake,,East Bay,synthetic_crosswalk_from_station_name,14.36013,121.297613,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1
+LAG-LAKE-15,Stn. XXIII (Lumban),lake,,East Bay,synthetic_crosswalk_from_station_name,14.357685,121.328013,synthetic_gap_fill_zone_centroid_ring,2.0,synthetic_gap_fill_v1

@@ -1,0 +1,3 @@
+split,target,threshold,rows,positives,alerts,true_positives,false_positives,true_negatives,false_negatives,precision,recall,f1,pr_auc,roc_auc,brier,events,events_detected,data_origin,warning
+validation,y_72h,0.5,5395,30,21,18,3,5362,12,0.8571,0.6,0.7059,0.7451,0.9922,0.002491,2,2,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+test,y_72h,0.5,10805,60,124,50,74,10671,10,0.4032,0.8333,0.5435,0.6947,0.9731,0.006542,4,4,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE

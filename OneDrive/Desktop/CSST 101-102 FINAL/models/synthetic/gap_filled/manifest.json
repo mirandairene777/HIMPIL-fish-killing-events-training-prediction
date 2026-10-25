@@ -1,0 +1,69 @@
+{
+  "dataset": "himpil_synthetic_gap_fill_model",
+  "version": "1.0",
+  "status": "synthetic_gap_fill_model_only",
+  "warning": "SYNTHETIC GAP-FILL - DEMONSTRATION ONLY",
+  "data_origin": "synthetic_gap_fill_v1",
+  "generated_at_utc": "2026-10-24T14:39:51+00:00",
+  "seed": 20261024,
+  "source_database": "data/synthetic/gap_fill/himpil_synthetic_complete.sqlite",
+  "model_directory": "models/synthetic/gap_filled",
+  "readiness": {
+    "scope": "synthetic_gap_fill",
+    "checks": 10,
+    "passed": 10
+  },
+  "test_random_forest": [
+    {
+      "horizon_hours": 24,
+      "n_positive": 20,
+      "precision": 0.46511627906976744,
+      "recall": 1.0,
+      "f1": 0.6349206349206349,
+      "pr_auc": 0.6026641783777466,
+      "roc_auc": 0.9991655076495132,
+      "brier": 0.0019879454605858105
+    },
+    {
+      "horizon_hours": 48,
+      "n_positive": 40,
+      "precision": 0.6060606060606061,
+      "recall": 1.0,
+      "f1": 0.7547169811320755,
+      "pr_auc": 0.9405212815068252,
+      "roc_auc": 0.9998235020901068,
+      "brier": 0.002139651598190343
+    },
+    {
+      "horizon_hours": 72,
+      "n_positive": 60,
+      "precision": 0.6704545454545454,
+      "recall": 0.9833333333333333,
+      "f1": 0.7972972972972973,
+      "pr_auc": 0.9385893675294048,
+      "roc_auc": 0.9995424228323252,
+      "brier": 0.0028618179748738566
+    }
+  ],
+  "event_detection": {
+    "detected": 4,
+    "total": 4
+  },
+  "outputs": {
+    "model_24h": "models/synthetic/gap_filled/random_forest_24h.joblib",
+    "model_48h": "models/synthetic/gap_filled/random_forest_48h.joblib",
+    "model_72h": "models/synthetic/gap_filled/random_forest_72h.joblib",
+    "metrics": "reports/tables/synthetic_gap_filled_model_metrics.csv",
+    "predictions": "reports/tables/synthetic_gap_filled_test_predictions.csv",
+    "event_detection": "reports/tables/synthetic_gap_filled_event_detection.csv",
+    "feature_importance": "reports/tables/synthetic_gap_filled_feature_importance.csv",
+    "report": "reports/tables/synthetic_gap_filled_model_report.md",
+    "model_card": "reports/tables/synthetic_gap_filled_model_card.md",
+    "dashboard_payload": "dashboard/src/data/syntheticDemo.json"
+  },
+  "quarantine": {
+    "synthetic_only": true,
+    "separate_from_real_evidence_bundle": true,
+    "real_gate_satisfied": false
+  }
+}

@@ -1,0 +1,901 @@
+﻿station_id,station_name,year,variable,variable_key,anchor_value,unit,anchor_status,source_flag,source_numeric_value_present,data_origin
+LAG-LAKE-01,Stn I - West Bay,2016,Nitrate,nitrate,0.2724,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2016,Phosphate,phosphate,0.1205,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2016,BOD,bod,2.25,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2016,pH,ph,8.236364,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2016,Water temperature,temperature,29.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2016,Dissolved oxygen (DO),do,7.925,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2017,Nitrate,nitrate,0.2048,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2017,Phosphate,phosphate,0.1863,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2017,BOD,bod,2.42,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2017,pH,ph,8.175,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2017,Water temperature,temperature,28.514562,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2017,Dissolved oxygen (DO),do,7.808333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2018,Nitrate,nitrate,0.2048,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2018,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2018,BOD,bod,3.29,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2018,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2018,Water temperature,temperature,29.2,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2018,Dissolved oxygen (DO),do,8.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2019,Nitrate,nitrate,0.052,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2019,BOD,bod,3.79,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2019,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2019,Water temperature,temperature,27.9,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2019,Dissolved oxygen (DO),do,7.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2020,Nitrate,nitrate,0.1154,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2020,Phosphate,phosphate,0.057286,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2020,BOD,bod,2.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2020,pH,ph,8.314286,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2020,Water temperature,temperature,27.1,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2020,Dissolved oxygen (DO),do,7.514286,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2021,Nitrate,nitrate,0.2575,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2021,Phosphate,phosphate,0.104091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2021,BOD,bod,2.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2021,pH,ph,8.450909,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2021,Water temperature,temperature,29.181818,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2021,Dissolved oxygen (DO),do,7.527273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2022,Nitrate,nitrate,0.328273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2022,Phosphate,phosphate,0.223545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2022,BOD,bod,2.909091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2022,pH,ph,8.081818,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2022,Water temperature,temperature,28.590909,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2022,Dissolved oxygen (DO),do,6.918182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2023,Nitrate,nitrate,0.417833,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2023,Phosphate,phosphate,0.24675,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2023,BOD,bod,1.916667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2023,pH,ph,8.2,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2023,Water temperature,temperature,28.333333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2023,Dissolved oxygen (DO),do,7.3,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2024,Nitrate,nitrate,0.433333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2024,Phosphate,phosphate,0.123417,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2024,BOD,bod,3.166667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2024,pH,ph,8.308333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2024,Water temperature,temperature,28.75,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2024,Dissolved oxygen (DO),do,6.983333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2025,Nitrate,nitrate,0.491667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2025,Phosphate,phosphate,0.1395,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2025,BOD,bod,3.083333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2025,pH,ph,7.98,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2025,Water temperature,temperature,28.575,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-01,Stn I - West Bay,2025,Dissolved oxygen (DO),do,6.833333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2016,Nitrate,nitrate,0.176,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2016,Phosphate,phosphate,0.0665,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2016,BOD,bod,1.75,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2016,pH,ph,8.681818,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2016,Water temperature,temperature,28.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2016,Dissolved oxygen (DO),do,8.233333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2017,Nitrate,nitrate,0.1614,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2017,Phosphate,phosphate,0.0937,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2017,BOD,bod,2.08,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2017,pH,ph,8.066667,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2017,Water temperature,temperature,28.327008,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2017,Dissolved oxygen (DO),do,8.308333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2018,Nitrate,nitrate,0.052,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2018,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2018,BOD,bod,2.08,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2018,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2018,Water temperature,temperature,29.2,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2018,Dissolved oxygen (DO),do,8.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2019,Nitrate,nitrate,0.052,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2019,BOD,bod,3.08,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2019,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2019,Water temperature,temperature,27.7,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2019,Dissolved oxygen (DO),do,7.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2020,Nitrate,nitrate,0.1474,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2020,Phosphate,phosphate,0.068,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2020,BOD,bod,2.666667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2020,pH,ph,8.311429,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2020,Water temperature,temperature,27.514286,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2020,Dissolved oxygen (DO),do,7.485714,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2021,Nitrate,nitrate,0.19625,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2021,Phosphate,phosphate,0.070636,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2021,BOD,bod,2.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2021,pH,ph,8.279091,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2021,Water temperature,temperature,27.818182,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2021,Dissolved oxygen (DO),do,7.990909,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2022,Nitrate,nitrate,0.160364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2022,Phosphate,phosphate,0.131909,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2022,BOD,bod,2.727273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2022,pH,ph,8.154545,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2022,Water temperature,temperature,28.927273,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2022,Dissolved oxygen (DO),do,7.663636,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2023,Nitrate,nitrate,0.3905,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2023,Phosphate,phosphate,0.200417,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2023,BOD,bod,2.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2023,pH,ph,8.1,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2023,Water temperature,temperature,29.166667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2023,Dissolved oxygen (DO),do,7.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2024,Nitrate,nitrate,0.246154,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2024,Phosphate,phosphate,0.118583,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2024,BOD,bod,2.333333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2024,pH,ph,8.191667,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2024,Water temperature,temperature,28.583333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2024,Dissolved oxygen (DO),do,7.683333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2025,Nitrate,nitrate,0.316667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2025,Phosphate,phosphate,0.077083,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2025,BOD,bod,3.166667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2025,pH,ph,8.327273,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2025,Water temperature,temperature,28.033333,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-02,Stn II - East Bay,2025,Dissolved oxygen (DO),do,7.916667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2016,Nitrate,nitrate,0.1459,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2016,Phosphate,phosphate,0.101,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2016,BOD,bod,2.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2016,pH,ph,8.690909,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2016,Water temperature,temperature,28.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2016,Dissolved oxygen (DO),do,9.075,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2017,Nitrate,nitrate,0.2859,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2017,Phosphate,phosphate,0.1597,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2017,BOD,bod,2.67,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2017,pH,ph,8.316667,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2017,Water temperature,temperature,28.669786,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2017,Dissolved oxygen (DO),do,9.016667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2018,Nitrate,nitrate,0.2048,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2018,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2018,BOD,bod,1.79,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2018,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2018,Water temperature,temperature,29.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2018,Dissolved oxygen (DO),do,8.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2019,Nitrate,nitrate,0.052,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2019,BOD,bod,2.29,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2019,pH,ph,8.4,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2019,Water temperature,temperature,27.8,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2019,Dissolved oxygen (DO),do,7.7,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2020,Nitrate,nitrate,0.2326,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2020,Phosphate,phosphate,0.061714,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2020,BOD,bod,3.166667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2020,pH,ph,8.337143,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2020,Water temperature,temperature,28.214286,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2020,Dissolved oxygen (DO),do,7.457143,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2021,Nitrate,nitrate,0.18175,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2021,Phosphate,phosphate,0.113636,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2021,BOD,bod,2.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2021,pH,ph,8.326364,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2021,Water temperature,temperature,29.545455,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2021,Dissolved oxygen (DO),do,7.636364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2022,Nitrate,nitrate,0.2087,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2022,Phosphate,phosphate,0.195,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2022,BOD,bod,3.2,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2022,pH,ph,8.36,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2022,Water temperature,temperature,29.06,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2022,Dissolved oxygen (DO),do,8.02,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2023,Nitrate,nitrate,0.4015,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2023,Phosphate,phosphate,0.244,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2023,BOD,bod,1.583333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2023,pH,ph,8.2,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2023,Water temperature,temperature,28.333333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2023,Dissolved oxygen (DO),do,7.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2024,Nitrate,nitrate,0.15,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2024,Phosphate,phosphate,0.129833,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2024,BOD,bod,2.75,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2024,pH,ph,8.433333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2024,Water temperature,temperature,28.833333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2024,Dissolved oxygen (DO),do,7.666667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2025,Nitrate,nitrate,0.433333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2025,Phosphate,phosphate,0.119917,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2025,BOD,bod,2.75,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2025,pH,ph,8.28,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2025,Water temperature,temperature,29.241667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-03,Stn IV - Central Bay,2025,Dissolved oxygen (DO),do,7.416667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2016,Nitrate,nitrate,0.28,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2016,Phosphate,phosphate,0.1545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2016,BOD,bod,2.08,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2016,pH,ph,8.4,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2016,Water temperature,temperature,28.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2016,Dissolved oxygen (DO),do,7.466667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2017,Nitrate,nitrate,0.3969,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2017,Phosphate,phosphate,0.219,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2017,BOD,bod,3.21,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2017,pH,ph,8.083333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2017,Water temperature,temperature,29.084776,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2017,Dissolved oxygen (DO),do,8.308333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2018,Nitrate,nitrate,0.3969,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2018,Phosphate,phosphate,0.2,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2018,BOD,bod,2.67,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2018,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2018,Water temperature,temperature,28.9,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2018,Dissolved oxygen (DO),do,8.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2019,Nitrate,nitrate,0.052,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2019,Phosphate,phosphate,0.2,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2019,BOD,bod,3.67,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2019,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2019,Water temperature,temperature,29.5,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2019,Dissolved oxygen (DO),do,8.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2020,Nitrate,nitrate,0.155,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2020,Phosphate,phosphate,0.067571,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2020,BOD,bod,3.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2020,pH,ph,8.482857,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2020,Water temperature,temperature,28.385714,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2020,Dissolved oxygen (DO),do,8.285714,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2021,Nitrate,nitrate,0.17625,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2021,Phosphate,phosphate,0.128364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2021,BOD,bod,2.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2021,pH,ph,8.519091,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2021,Water temperature,temperature,29.272727,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2021,Dissolved oxygen (DO),do,8.027273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2022,Nitrate,nitrate,0.182818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2022,Phosphate,phosphate,0.216636,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2022,BOD,bod,3.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2022,pH,ph,8.381818,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2022,Water temperature,temperature,30.045455,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2022,Dissolved oxygen (DO),do,8.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2023,Nitrate,nitrate,0.303667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2023,Phosphate,phosphate,0.228833,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2023,BOD,bod,2.666667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2023,pH,ph,8.4,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2023,Water temperature,temperature,28.916667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2023,Dissolved oxygen (DO),do,7.8,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2024,Nitrate,nitrate,0.275,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2024,Phosphate,phosphate,0.125091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2024,BOD,bod,3.181818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2024,pH,ph,8.263636,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2024,Water temperature,temperature,29.909091,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2024,Dissolved oxygen (DO),do,7.681818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2025,Nitrate,nitrate,0.516667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2025,Phosphate,phosphate,0.160917,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2025,BOD,bod,2.916667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2025,pH,ph,8.25,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2025,Water temperature,temperature,28.833333,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-04,Stn V - West Bay near Pasig River,2025,Dissolved oxygen (DO),do,7.083333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2016,Nitrate,nitrate,0.1875,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2016,Phosphate,phosphate,0.0895,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2016,BOD,bod,1.42,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2016,pH,ph,8.527273,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2016,Water temperature,temperature,28.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2016,Dissolved oxygen (DO),do,7.975,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2017,Nitrate,nitrate,0.2446,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2017,Phosphate,phosphate,0.1133,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2017,BOD,bod,2.46,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2017,pH,ph,8.308333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2017,Water temperature,temperature,28.540488,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2017,Dissolved oxygen (DO),do,8.8,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2018,Nitrate,nitrate,0.28,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2018,Phosphate,phosphate,0.2,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2018,BOD,bod,1.54,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2018,pH,ph,8.3,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2018,Water temperature,temperature,29.1,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2018,Dissolved oxygen (DO),do,7.9,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2019,Nitrate,nitrate,0.052,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2019,BOD,bod,2.42,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2019,pH,ph,8.3,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2019,Water temperature,temperature,28.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2019,Dissolved oxygen (DO),do,7.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2020,Nitrate,nitrate,0.1092,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2020,Phosphate,phosphate,0.042429,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2020,BOD,bod,2.333333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2020,pH,ph,8.438571,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2020,Water temperature,temperature,26.9,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2020,Dissolved oxygen (DO),do,7.985714,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2021,Nitrate,nitrate,0.109375,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2021,Phosphate,phosphate,0.141455,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2021,BOD,bod,1.65,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2021,pH,ph,8.377273,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2021,Water temperature,temperature,28.545455,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2021,Dissolved oxygen (DO),do,7.881818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2022,Nitrate,nitrate,0.181455,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2022,Phosphate,phosphate,0.148091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2022,BOD,bod,2.909091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2022,pH,ph,8.127273,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2022,Water temperature,temperature,29.227273,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2022,Dissolved oxygen (DO),do,7.772727,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2023,Nitrate,nitrate,0.332167,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2023,Phosphate,phosphate,0.216583,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2023,BOD,bod,1.75,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2023,pH,ph,8.2,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2023,Water temperature,temperature,29.5,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2023,Dissolved oxygen (DO),do,7.7,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2024,Nitrate,nitrate,0.166667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2024,Phosphate,phosphate,0.097083,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2024,BOD,bod,2.25,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2024,pH,ph,8.466667,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2024,Water temperature,temperature,29.333333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2024,Dissolved oxygen (DO),do,7.808333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2025,Nitrate,nitrate,0.433333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2025,Phosphate,phosphate,0.124083,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2025,BOD,bod,2.666667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2025,pH,ph,8.218182,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2025,Water temperature,temperature,28.258333,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-05,Stn VIII - South Bay,2025,Dissolved oxygen (DO),do,7.666667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2016,Nitrate,nitrate,0.2255,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2016,Phosphate,phosphate,0.0957,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2016,BOD,bod,2.17,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2016,pH,ph,8.372727,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2016,Water temperature,temperature,26.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2016,Dissolved oxygen (DO),do,7.391667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2017,Nitrate,nitrate,0.1533,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2017,Phosphate,phosphate,0.1322,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2017,BOD,bod,2.88,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2017,pH,ph,8.225,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2017,Water temperature,temperature,28.325613,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2017,Dissolved oxygen (DO),do,8.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2018,Nitrate,nitrate,0.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2018,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2018,BOD,bod,2.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2018,pH,ph,8.7,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2018,Water temperature,temperature,29.3,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2018,Dissolved oxygen (DO),do,8.4,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2019,Nitrate,nitrate,0.052,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2019,BOD,bod,2.92,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2019,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2019,Water temperature,temperature,28.6,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2019,Dissolved oxygen (DO),do,7.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2020,Nitrate,nitrate,0.117,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2020,Phosphate,phosphate,0.053714,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2020,BOD,bod,2.833333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2020,pH,ph,8.287143,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2020,Water temperature,temperature,27.871429,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2020,Dissolved oxygen (DO),do,7.785714,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2021,Nitrate,nitrate,0.13675,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2021,Phosphate,phosphate,0.105,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2021,BOD,bod,2.7,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2021,pH,ph,8.396364,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2021,Water temperature,temperature,28.545455,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2021,Dissolved oxygen (DO),do,7.654545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2022,Nitrate,nitrate,0.205,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2022,Phosphate,phosphate,0.156364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2022,BOD,bod,2.818182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2022,pH,ph,8.154545,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2022,Water temperature,temperature,29.263636,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2022,Dissolved oxygen (DO),do,7.072727,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2023,Nitrate,nitrate,0.377333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2023,Phosphate,phosphate,0.2305,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2023,BOD,bod,1.916667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2023,pH,ph,8.2,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2023,Water temperature,temperature,28.083333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2023,Dissolved oxygen (DO),do,7.2,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2024,Nitrate,nitrate,0.175,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2024,Phosphate,phosphate,0.1585,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2024,BOD,bod,2.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2024,pH,ph,8.25,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2024,Water temperature,temperature,29.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2024,Dissolved oxygen (DO),do,6.825,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2025,Nitrate,nitrate,0.525,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2025,Phosphate,phosphate,0.156333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2025,BOD,bod,2.833333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2025,pH,ph,7.925,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2025,Water temperature,temperature,28.266667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-06,Stn XV - San Pedro,2025,Dissolved oxygen (DO),do,6.416667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2016,Nitrate,nitrate,0.1268,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2016,Phosphate,phosphate,0.0697,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2016,BOD,bod,2.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2016,pH,ph,8.5,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2016,Water temperature,temperature,30.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2016,Dissolved oxygen (DO),do,8.125,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2017,Nitrate,nitrate,0.2415,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2017,Phosphate,phosphate,0.1428,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2017,BOD,bod,7.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2017,pH,ph,8.25,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2017,Water temperature,temperature,28.575637,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2017,Dissolved oxygen (DO),do,8.425,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2018,Nitrate,nitrate,0.2415,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2018,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2018,BOD,bod,1.84,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2018,pH,ph,8.6,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2018,Water temperature,temperature,29.3,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2018,Dissolved oxygen (DO),do,8.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2019,Nitrate,nitrate,0.1268,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2019,BOD,bod,3.04,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2019,pH,ph,8.7,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2019,Water temperature,temperature,28.3,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2019,Dissolved oxygen (DO),do,8.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2020,Nitrate,nitrate,0.0952,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2020,Phosphate,phosphate,0.054571,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2020,BOD,bod,3.166667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2020,pH,ph,8.482857,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2020,Water temperature,temperature,27.542857,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2020,Dissolved oxygen (DO),do,7.842857,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2021,Nitrate,nitrate,0.15375,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2021,Phosphate,phosphate,0.11,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2021,BOD,bod,3.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2021,pH,ph,8.411818,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2021,Water temperature,temperature,28.272727,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2021,Dissolved oxygen (DO),do,7.754545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2022,Nitrate,nitrate,0.186909,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2022,Phosphate,phosphate,0.151818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2022,BOD,bod,2.909091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2022,pH,ph,8.127273,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2022,Water temperature,temperature,28.981818,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2022,Dissolved oxygen (DO),do,7.290909,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2023,Nitrate,nitrate,0.341583,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2023,Phosphate,phosphate,0.207917,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2023,BOD,bod,1.833333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2023,pH,ph,8.2,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2023,Water temperature,temperature,27.916667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2023,Dissolved oxygen (DO),do,7.3,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2024,Nitrate,nitrate,0.183333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2024,Phosphate,phosphate,0.113,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2024,BOD,bod,2.166667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2024,pH,ph,8.208333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2024,Water temperature,temperature,28.916667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2024,Dissolved oxygen (DO),do,7.058333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2025,Nitrate,nitrate,0.475,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2025,Phosphate,phosphate,0.126583,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2025,BOD,bod,2.666667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2025,pH,ph,8.05,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2025,Water temperature,temperature,27.95,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-07,Stn XVI -Sta. Rosa,2025,Dissolved oxygen (DO),do,7.0,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2016,Nitrate,nitrate,0.1387,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2016,Phosphate,phosphate,0.0752,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2016,BOD,bod,1.83,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2016,pH,ph,8.636364,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2016,Water temperature,temperature,28.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2016,Dissolved oxygen (DO),do,8.225,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2017,Nitrate,nitrate,0.2792,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2017,Phosphate,phosphate,0.1268,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2017,BOD,bod,3.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2017,pH,ph,8.333333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2017,Water temperature,temperature,28.742051,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2017,Dissolved oxygen (DO),do,8.8,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2018,Nitrate,nitrate,0.2415,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2018,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2018,BOD,bod,1.63,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2018,pH,ph,8.6,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2018,Water temperature,temperature,29.1,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2018,Dissolved oxygen (DO),do,8.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2019,Nitrate,nitrate,0.1268,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2019,BOD,bod,2.38,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2019,pH,ph,8.7,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2019,Water temperature,temperature,27.7,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2019,Dissolved oxygen (DO),do,7.8,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2020,Nitrate,nitrate,0.0882,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2020,Phosphate,phosphate,0.049143,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2020,BOD,bod,2.666667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2020,pH,ph,8.422857,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2020,Water temperature,temperature,27.942857,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2020,Dissolved oxygen (DO),do,7.757143,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2021,Nitrate,nitrate,0.134286,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2021,Phosphate,phosphate,0.0981,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2021,BOD,bod,2.333333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2021,pH,ph,8.476,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2021,Water temperature,temperature,29.9,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2021,Dissolved oxygen (DO),do,7.94,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2022,Nitrate,nitrate,0.234091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2022,Phosphate,phosphate,0.162727,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2022,BOD,bod,3.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2022,pH,ph,8.445455,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2022,Water temperature,temperature,28.727273,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2022,Dissolved oxygen (DO),do,8.036364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2023,Nitrate,nitrate,0.367083,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2023,Phosphate,phosphate,0.223833,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2023,BOD,bod,1.625,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2023,pH,ph,8.3,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2023,Water temperature,temperature,28.75,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2023,Dissolved oxygen (DO),do,7.7,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2024,Nitrate,nitrate,0.15,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2024,Phosphate,phosphate,0.082,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2024,BOD,bod,2.666667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2024,pH,ph,8.433333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2024,Water temperature,temperature,29.166667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2024,Dissolved oxygen (DO),do,8.016667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2025,Nitrate,nitrate,0.45,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2025,Phosphate,phosphate,0.111583,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2025,BOD,bod,2.75,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2025,pH,ph,8.3,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2025,Water temperature,temperature,29.391667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-08,Stn XVII - Sanctuary,2025,Dissolved oxygen (DO),do,7.333333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2016,Nitrate,nitrate,0.1721,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2016,Phosphate,phosphate,0.053,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2016,BOD,bod,2.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2016,pH,ph,8.790909,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2016,Water temperature,temperature,28.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2016,Dissolved oxygen (DO),do,8.416667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2017,Nitrate,nitrate,0.0921,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2017,Phosphate,phosphate,0.0894,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2017,BOD,bod,2.33,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2017,pH,ph,8.275,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2017,Water temperature,temperature,28.100577,deg C,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2017,Dissolved oxygen (DO),do,8.708333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2018,Nitrate,nitrate,0.0921,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2018,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2018,BOD,bod,2.25,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2018,pH,ph,8.7,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2018,Water temperature,temperature,29.1,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2018,Dissolved oxygen (DO),do,9.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2019,Nitrate,nitrate,0.0921,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2019,Phosphate,phosphate,0.1,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2019,BOD,bod,2.71,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2019,pH,ph,8.6,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2019,Water temperature,temperature,27.7,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2019,Dissolved oxygen (DO),do,8.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2020,Nitrate,nitrate,0.2162,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2020,Phosphate,phosphate,0.043857,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2020,BOD,bod,3.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2020,pH,ph,8.057143,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2020,Water temperature,temperature,27.414286,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2020,Dissolved oxygen (DO),do,7.571429,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2021,Nitrate,nitrate,0.095,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2021,Phosphate,phosphate,0.048818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2021,BOD,bod,2.05,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2021,pH,ph,8.345455,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2021,Water temperature,temperature,27.090909,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2021,Dissolved oxygen (DO),do,7.909091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2022,Nitrate,nitrate,0.102182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2022,Phosphate,phosphate,0.058182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2022,BOD,bod,3.636364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2022,pH,ph,8.218182,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2022,Water temperature,temperature,28.5,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2022,Dissolved oxygen (DO),do,8.318182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2023,Nitrate,nitrate,0.09,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2023,Phosphate,phosphate,0.114333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2023,BOD,bod,2.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2023,pH,ph,8.0,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2023,Water temperature,temperature,29.083333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2023,Dissolved oxygen (DO),do,7.7,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2024,Nitrate,nitrate,0.225,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2024,Phosphate,phosphate,0.1105,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2024,BOD,bod,2.75,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2024,pH,ph,8.216667,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2024,Water temperature,temperature,28.5,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2024,Dissolved oxygen (DO),do,7.683333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2025,Nitrate,nitrate,0.246667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2025,Phosphate,phosphate,0.053333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2025,BOD,bod,2.75,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2025,pH,ph,8.236364,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2025,Water temperature,temperature,27.516667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-09,Stn XVIII - Pagsanjan,2025,Dissolved oxygen (DO),do,8.083333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2016,Nitrate,nitrate,0.299577,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2016,Phosphate,phosphate,0.187208,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2016,BOD,bod,3.242121,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2016,pH,ph,8.365515,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2016,Water temperature,temperature,29.288636,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2016,Dissolved oxygen (DO),do,7.524848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2017,Nitrate,nitrate,0.299577,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2017,Phosphate,phosphate,0.187208,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2017,BOD,bod,3.242121,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2017,pH,ph,8.365515,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2017,Water temperature,temperature,29.288636,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2017,Dissolved oxygen (DO),do,7.524848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2018,Nitrate,nitrate,0.299577,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2018,Phosphate,phosphate,0.187208,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2018,BOD,bod,3.242121,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2018,pH,ph,8.365515,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2018,Water temperature,temperature,29.288636,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2018,Dissolved oxygen (DO),do,7.524848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2019,Nitrate,nitrate,0.299577,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2019,Phosphate,phosphate,0.187208,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2019,BOD,bod,3.242121,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2019,pH,ph,8.365515,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2019,Water temperature,temperature,29.288636,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2019,Dissolved oxygen (DO),do,7.524848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2020,Nitrate,nitrate,0.299577,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2020,Phosphate,phosphate,0.187208,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2020,BOD,bod,3.242121,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2020,pH,ph,8.365515,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2020,Water temperature,temperature,29.288636,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2020,Dissolved oxygen (DO),do,7.524848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2021,Nitrate,nitrate,0.19675,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2021,Phosphate,phosphate,0.158273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2021,BOD,bod,2.9,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2021,pH,ph,8.401818,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2021,Water temperature,temperature,29.090909,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2021,Dissolved oxygen (DO),do,7.918182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2022,Nitrate,nitrate,0.212818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2022,Phosphate,phosphate,0.219091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2022,BOD,bod,3.909091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2022,pH,ph,8.418182,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2022,Water temperature,temperature,30.2,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2022,Dissolved oxygen (DO),do,7.718182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2023,Nitrate,nitrate,0.3815,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2023,Phosphate,phosphate,0.25175,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2023,BOD,bod,2.416667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2023,pH,ph,8.4,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2023,Water temperature,temperature,28.583333,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2023,Dissolved oxygen (DO),do,7.5,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2024,Nitrate,nitrate,0.181818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2024,Phosphate,phosphate,0.129091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2024,BOD,bod,3.818182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2024,pH,ph,8.490909,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2024,Water temperature,temperature,29.727273,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2024,Dissolved oxygen (DO),do,7.654545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2025,Nitrate,nitrate,0.525,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2025,Phosphate,phosphate,0.177833,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2025,BOD,bod,3.166667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2025,pH,ph,8.116667,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2025,Water temperature,temperature,28.841667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-10,Stn. XIII (Taytay),2025,Dissolved oxygen (DO),do,6.833333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2016,Nitrate,nitrate,0.275208,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2016,Phosphate,phosphate,0.154605,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2016,BOD,bod,2.635152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2016,pH,ph,8.301939,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2016,Water temperature,temperature,28.748136,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2016,Dissolved oxygen (DO),do,7.306061,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2017,Nitrate,nitrate,0.275208,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2017,Phosphate,phosphate,0.154605,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2017,BOD,bod,2.635152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2017,pH,ph,8.301939,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2017,Water temperature,temperature,28.748136,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2017,Dissolved oxygen (DO),do,7.306061,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2018,Nitrate,nitrate,0.275208,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2018,Phosphate,phosphate,0.154605,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2018,BOD,bod,2.635152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2018,pH,ph,8.301939,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2018,Water temperature,temperature,28.748136,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2018,Dissolved oxygen (DO),do,7.306061,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2019,Nitrate,nitrate,0.275208,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2019,Phosphate,phosphate,0.154605,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2019,BOD,bod,2.635152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2019,pH,ph,8.301939,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2019,Water temperature,temperature,28.748136,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2019,Dissolved oxygen (DO),do,7.306061,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2020,Nitrate,nitrate,0.275208,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2020,Phosphate,phosphate,0.154605,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2020,BOD,bod,2.635152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2020,pH,ph,8.301939,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2020,Water temperature,temperature,28.748136,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2020,Dissolved oxygen (DO),do,7.306061,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2021,Nitrate,nitrate,0.097625,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2021,Phosphate,phosphate,0.117182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2021,BOD,bod,2.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2021,pH,ph,8.449091,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2021,Water temperature,temperature,28.363636,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2021,Dissolved oxygen (DO),do,7.554545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2022,Nitrate,nitrate,0.237,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2022,Phosphate,phosphate,0.189091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2022,BOD,bod,2.909091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2022,pH,ph,8.227273,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2022,Water temperature,temperature,29.354545,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2022,Dissolved oxygen (DO),do,7.209091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2023,Nitrate,nitrate,0.44975,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2023,Phosphate,phosphate,0.227083,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2023,BOD,bod,2.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2023,pH,ph,8.2,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2023,Water temperature,temperature,28.5,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2023,Dissolved oxygen (DO),do,7.3,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2024,Nitrate,nitrate,0.141667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2024,Phosphate,phosphate,0.104917,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2024,BOD,bod,2.75,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2024,pH,ph,8.416667,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2024,Water temperature,temperature,29.166667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2024,Dissolved oxygen (DO),do,7.05,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2025,Nitrate,nitrate,0.45,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2025,Phosphate,phosphate,0.13475,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2025,BOD,bod,2.916667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2025,pH,ph,8.216667,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2025,Water temperature,temperature,28.355833,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-11,Stn. XIX (Muntinlupa),2025,Dissolved oxygen (DO),do,7.416667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2016,Nitrate,nitrate,0.320717,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2016,Phosphate,phosphate,0.149776,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2016,BOD,bod,2.475455,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2016,pH,ph,8.173273,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2016,Water temperature,temperature,28.563182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2016,Dissolved oxygen (DO),do,6.562727,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2017,Nitrate,nitrate,0.320717,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2017,Phosphate,phosphate,0.149776,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2017,BOD,bod,2.475455,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2017,pH,ph,8.173273,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2017,Water temperature,temperature,28.563182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2017,Dissolved oxygen (DO),do,6.562727,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2018,Nitrate,nitrate,0.320717,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2018,Phosphate,phosphate,0.149776,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2018,BOD,bod,2.475455,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2018,pH,ph,8.173273,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2018,Water temperature,temperature,28.563182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2018,Dissolved oxygen (DO),do,6.562727,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2019,Nitrate,nitrate,0.320717,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2019,Phosphate,phosphate,0.149776,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2019,BOD,bod,2.475455,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2019,pH,ph,8.173273,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2019,Water temperature,temperature,28.563182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2019,Dissolved oxygen (DO),do,6.562727,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2020,Nitrate,nitrate,0.320717,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2020,Phosphate,phosphate,0.149776,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2020,BOD,bod,2.475455,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2020,pH,ph,8.173273,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2020,Water temperature,temperature,28.563182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2020,Dissolved oxygen (DO),do,6.562727,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2021,Nitrate,nitrate,0.184625,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2021,Phosphate,phosphate,0.108818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2021,BOD,bod,2.4,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2021,pH,ph,8.246364,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2021,Water temperature,temperature,28.272727,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2021,Dissolved oxygen (DO),do,6.536364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2022,Nitrate,nitrate,0.226545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2022,Phosphate,phosphate,0.182727,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2022,BOD,bod,2.727273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2022,pH,ph,8.1,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2022,Water temperature,temperature,29.018182,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2022,Dissolved oxygen (DO),do,6.527273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2023,Nitrate,nitrate,0.442417,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2023,Phosphate,phosphate,0.229083,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2023,BOD,bod,1.75,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2023,pH,ph,8.2,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2023,Water temperature,temperature,28.166667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2023,Dissolved oxygen (DO),do,6.9,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2024,Nitrate,nitrate,0.233333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2024,Phosphate,phosphate,0.091417,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2024,BOD,bod,2.583333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2024,pH,ph,8.3,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2024,Water temperature,temperature,28.666667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2024,Dissolved oxygen (DO),do,6.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2025,Nitrate,nitrate,0.516667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2025,Phosphate,phosphate,0.136833,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2025,BOD,bod,2.916667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2025,pH,ph,8.02,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2025,Water temperature,temperature,28.691667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-12,Stn. XX (GEMS),2025,Dissolved oxygen (DO),do,6.25,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2016,Nitrate,nitrate,0.259459,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2016,Phosphate,phosphate,0.149389,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2016,BOD,bod,2.758485,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2016,pH,ph,8.356394,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2016,Water temperature,temperature,29.173182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2016,Dissolved oxygen (DO),do,7.720152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2017,Nitrate,nitrate,0.259459,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2017,Phosphate,phosphate,0.149389,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2017,BOD,bod,2.758485,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2017,pH,ph,8.356394,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2017,Water temperature,temperature,29.173182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2017,Dissolved oxygen (DO),do,7.720152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2018,Nitrate,nitrate,0.259459,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2018,Phosphate,phosphate,0.149389,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2018,BOD,bod,2.758485,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2018,pH,ph,8.356394,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2018,Water temperature,temperature,29.173182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2018,Dissolved oxygen (DO),do,7.720152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2019,Nitrate,nitrate,0.259459,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2019,Phosphate,phosphate,0.149389,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2019,BOD,bod,2.758485,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2019,pH,ph,8.356394,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2019,Water temperature,temperature,29.173182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2019,Dissolved oxygen (DO),do,7.720152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2020,Nitrate,nitrate,0.259459,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2020,Phosphate,phosphate,0.149389,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2020,BOD,bod,2.758485,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2020,pH,ph,8.356394,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2020,Water temperature,temperature,29.173182,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2020,Dissolved oxygen (DO),do,7.720152,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2021,Nitrate,nitrate,0.1285,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2021,Phosphate,phosphate,0.111727,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2021,BOD,bod,2.8,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2021,pH,ph,8.357273,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2021,Water temperature,temperature,29.363636,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2021,Dissolved oxygen (DO),do,7.781818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2022,Nitrate,nitrate,0.215545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2022,Phosphate,phosphate,0.176364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2022,BOD,bod,2.909091,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2022,pH,ph,8.236364,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2022,Water temperature,temperature,29.227273,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2022,Dissolved oxygen (DO),do,7.827273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2023,Nitrate,nitrate,0.361583,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2023,Phosphate,phosphate,0.253583,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2023,BOD,bod,1.833333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2023,pH,ph,8.3,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2023,Water temperature,temperature,28.666667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2023,Dissolved oxygen (DO),do,7.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2024,Nitrate,nitrate,0.133333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2024,Phosphate,phosphate,0.094273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2024,BOD,bod,3.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2024,pH,ph,8.558333,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2024,Water temperature,temperature,29.166667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2024,Dissolved oxygen (DO),do,8.225,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2025,Nitrate,nitrate,0.458333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2025,Phosphate,phosphate,0.111,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2025,BOD,bod,3.25,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2025,pH,ph,8.33,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2025,Water temperature,temperature,29.441667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-13,Stn. XXI (Cardona),2025,Dissolved oxygen (DO),do,7.166667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2016,Nitrate,nitrate,0.245847,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2016,Phosphate,phosphate,0.129062,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2016,BOD,bod,2.423333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2016,pH,ph,8.322727,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2016,Water temperature,temperature,28.915758,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2016,Dissolved oxygen (DO),do,7.749848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2017,Nitrate,nitrate,0.245847,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2017,Phosphate,phosphate,0.129062,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2017,BOD,bod,2.423333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2017,pH,ph,8.322727,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2017,Water temperature,temperature,28.915758,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2017,Dissolved oxygen (DO),do,7.749848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2018,Nitrate,nitrate,0.245847,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2018,Phosphate,phosphate,0.129062,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2018,BOD,bod,2.423333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2018,pH,ph,8.322727,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2018,Water temperature,temperature,28.915758,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2018,Dissolved oxygen (DO),do,7.749848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2019,Nitrate,nitrate,0.245847,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2019,Phosphate,phosphate,0.129062,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2019,BOD,bod,2.423333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2019,pH,ph,8.322727,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2019,Water temperature,temperature,28.915758,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2019,Dissolved oxygen (DO),do,7.749848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2020,Nitrate,nitrate,0.245847,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2020,Phosphate,phosphate,0.129062,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2020,BOD,bod,2.423333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2020,pH,ph,8.322727,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2020,Water temperature,temperature,28.915758,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2020,Dissolved oxygen (DO),do,7.749848,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2021,Nitrate,nitrate,0.0975,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2021,Phosphate,phosphate,0.085182,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2021,BOD,bod,2.2,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2021,pH,ph,8.454545,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2021,Water temperature,temperature,28.454545,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2021,Dissolved oxygen (DO),do,7.963636,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2022,Nitrate,nitrate,0.162818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2022,Phosphate,phosphate,0.144545,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2022,BOD,bod,3.0,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2022,pH,ph,8.154545,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2022,Water temperature,temperature,29.090909,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2022,Dissolved oxygen (DO),do,7.627273,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2023,Nitrate,nitrate,0.343917,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2023,Phosphate,phosphate,0.2085,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2023,BOD,bod,1.916667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2023,pH,ph,8.3,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2023,Water temperature,temperature,29.416667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2023,Dissolved oxygen (DO),do,7.6,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2024,Nitrate,nitrate,0.15,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2024,Phosphate,phosphate,0.098,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2024,BOD,bod,2.416667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2024,pH,ph,8.45,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2024,Water temperature,temperature,29.25,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2024,Dissolved oxygen (DO),do,7.891667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2025,Nitrate,nitrate,0.475,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2025,Phosphate,phosphate,0.109083,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2025,BOD,bod,2.583333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2025,pH,ph,8.254545,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2025,Water temperature,temperature,28.366667,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-14,Stn. XXII (Jala-jala),2025,Dissolved oxygen (DO),do,7.666667,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2016,Nitrate,nitrate,0.146333,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2016,Phosphate,phosphate,0.083791,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2016,BOD,bod,2.711212,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2016,pH,ph,7.797879,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2016,Water temperature,temperature,28.126818,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2016,Dissolved oxygen (DO),do,7.663333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2017,Nitrate,nitrate,0.146333,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2017,Phosphate,phosphate,0.083791,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2017,BOD,bod,2.711212,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2017,pH,ph,7.797879,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2017,Water temperature,temperature,28.126818,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2017,Dissolved oxygen (DO),do,7.663333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2018,Nitrate,nitrate,0.146333,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2018,Phosphate,phosphate,0.083791,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2018,BOD,bod,2.711212,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2018,pH,ph,7.797879,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2018,Water temperature,temperature,28.126818,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2018,Dissolved oxygen (DO),do,7.663333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2019,Nitrate,nitrate,0.146333,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2019,Phosphate,phosphate,0.083791,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2019,BOD,bod,2.711212,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2019,pH,ph,7.797879,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2019,Water temperature,temperature,28.126818,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2019,Dissolved oxygen (DO),do,7.663333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2020,Nitrate,nitrate,0.146333,mg/L,synthetic_station_mean_imputed,undefined_ellipsis,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2020,Phosphate,phosphate,0.083791,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2020,BOD,bod,2.711212,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2020,pH,ph,7.797879,pH units,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2020,Water temperature,temperature,28.126818,deg C,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2020,Dissolved oxygen (DO),do,7.663333,mg/L,synthetic_station_mean_imputed,no_data,no,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2021,Nitrate,nitrate,0.108,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2021,Phosphate,phosphate,0.037636,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2021,BOD,bod,3.2,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2021,pH,ph,8.140909,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2021,Water temperature,temperature,27.0,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2021,Dissolved oxygen (DO),do,7.836364,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2022,Nitrate,nitrate,0.082,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2022,Phosphate,phosphate,0.051818,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2022,BOD,bod,3.272727,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2022,pH,ph,7.836364,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2022,Water temperature,temperature,28.409091,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2022,Dissolved oxygen (DO),do,8.163636,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2023,Nitrate,nitrate,0.083333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2023,Phosphate,phosphate,0.136083,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2023,BOD,bod,2.083333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2023,pH,ph,7.6,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2023,Water temperature,temperature,28.75,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2023,Dissolved oxygen (DO),do,7.3,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2024,Nitrate,nitrate,0.183333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2024,Phosphate,phosphate,0.12425,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2024,BOD,bod,2.666667,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2024,pH,ph,7.766667,pH units,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2024,Water temperature,temperature,28.916667,deg C,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2024,Dissolved oxygen (DO),do,7.683333,mg/L,real_annual_summary,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2025,Nitrate,nitrate,0.275,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2025,Phosphate,phosphate,0.069167,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2025,BOD,bod,2.333333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2025,pH,ph,7.645455,pH units,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2025,Water temperature,temperature,27.558333,deg C,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation
+LAG-LAKE-15,Stn. XXIII (Lumban),2025,Dissolved oxygen (DO),do,7.333333,mg/L,real_annual_summary_2025_completeness_unverified,ok,yes,real_annual_anchor_or_synthetic_imputation

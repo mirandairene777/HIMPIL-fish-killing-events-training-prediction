@@ -1,0 +1,4 @@
+﻿period_type,rows,positives,alerts,true_positives,false_positives,false_negatives,max_probability,data_origin
+baseline,10653,0,0,0,0,0,0.408524,synthetic_base_v1_event_overlay
+pre_event,80,20,43,20,23,0,0.998605,synthetic_base_v1_event_overlay
+stress_only,72,0,1,0,1,0,0.563758,synthetic_base_v1_event_overlay

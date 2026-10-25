@@ -1,0 +1,12 @@
+﻿event_id,event_start_date,event_end_date,affected_stations,period_type,data_origin,note
+SYN-EVT-2021-01,2021-04-19,2021-04-21,SYN-LAG-01;SYN-LAG-02;SYN-LAG-03,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-EVT-2021-02,2021-06-07,2021-06-09,SYN-LAG-02;SYN-LAG-04,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-EVT-2022-01,2022-05-09,2022-05-11,SYN-LAG-01;SYN-LAG-03;SYN-LAG-05,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-EVT-2022-02,2022-06-20,2022-06-22,SYN-LAG-04;SYN-LAG-06,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-EVT-2023-01,2023-04-17,2023-04-19,SYN-LAG-02;SYN-LAG-03;SYN-LAG-06,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-EVT-2023-02,2023-06-05,2023-06-07,SYN-LAG-01;SYN-LAG-05,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-EVT-2024-01,2024-05-13,2024-05-15,SYN-LAG-01;SYN-LAG-04;SYN-LAG-06,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-EVT-2024-02,2024-06-24,2024-06-26,SYN-LAG-02;SYN-LAG-03;SYN-LAG-05,synthetic_event,synthetic_simulation,Simulated event; not a real Laguna de Bay incident.
+SYN-STRESS-2022-01,2022-04-25,2022-04-27,SYN-LAG-02;SYN-LAG-05,synthetic_stress_without_event,synthetic_simulation,Simulated high-stress period with no event label.
+SYN-STRESS-2023-01,2023-05-22,2023-05-24,SYN-LAG-01;SYN-LAG-04,synthetic_stress_without_event,synthetic_simulation,Simulated high-stress period with no event label.
+SYN-STRESS-2024-01,2024-04-29,2024-05-01,SYN-LAG-02;SYN-LAG-05,synthetic_stress_without_event,synthetic_simulation,Simulated high-stress period with no event label.

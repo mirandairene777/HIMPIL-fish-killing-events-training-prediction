@@ -1,0 +1,7 @@
+do_mg_l,water_temp_c,ph,rainfall_mm_mean,wind_mps_mean,probability_72h,demo_band,team_example_band,source,data_origin,warning
+7.2,27.0,7.5,2.0,12.0,0.0032827218262124454,Low,Low,fictional example values from the team slide; not real measurements,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+6.5,28.0,7.2,5.0,10.0,0.08107420272505304,Low,Low,fictional example values from the team slide; not real measurements,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+4.8,30.0,7.0,15.0,8.0,0.45876293388850486,Medium,Medium,fictional example values from the team slide; not real measurements,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+3.9,31.0,6.8,20.0,5.0,0.6365559185904738,High,Medium,fictional example values from the team slide; not real measurements,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+2.1,33.0,6.5,30.0,3.0,0.7729623116936031,High,High,fictional example values from the team slide; not real measurements,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+1.5,34.0,6.2,25.0,4.0,0.6698767706705681,High,High,fictional example values from the team slide; not real measurements,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE

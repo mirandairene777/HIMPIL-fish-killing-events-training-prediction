@@ -1,0 +1,10 @@
+request_id,agency,dataset,status,sent_date,sent_to,channel,response_date,response_summary,files_received,restrictions,next_action,next_action_date,notes
+LLDA-WQ-01,Laguna Lake Development Authority (LLDA),Dated water-quality observations,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent
+LLDA-ST-01,Laguna Lake Development Authority (LLDA),Station registry and coordinates,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent
+LLDA-QA-01,Laguna Lake Development Authority (LLDA),Annual aggregation and QA rules,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent
+LLDA-INC-01,Laguna Lake Development Authority (LLDA),Fish-kill incident records and associated water-quality measurements,acknowledged,,,,,LLDA requested approval letters from the professor,,,Paused by team decision (D-009); retain acknowledged status,,Request sent; date recipient channel and response date not recorded; outreach paused 2026-10-23 under D-009
+LLDA-COMP-01,Laguna Lake Development Authority (LLDA),Reporting-completeness records,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent
+LLDA-ZONE-01,Laguna Lake Development Authority (LLDA),Lake-zone boundary and crosswalk,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent
+PAGASA-WX-01,Philippine Atmospheric Geophysical and Astronomical Services Administration (PAGASA),Daily weather observations,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent
+BFAR-INC-01,Bureau of Fisheries and Aquatic Resources (BFAR),Fish-kill reports and response records,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent
+LGU-INC-01,City Government of Biñan and Municipal Government of Pila,Fish-kill and reporting records,planned,,,,,,,,Complete recipient details and submit,,Draft prepared; not sent

@@ -1,0 +1,5 @@
+﻿event_id,event_start_date,affected_stations,prediction_rows,alerts,alerted,max_probability,data_origin
+SYN-BASE-EVT-2024-01,2024-03-15,LAG-LAKE-04;LAG-LAKE-05;LAG-LAKE-06;LAG-LAKE-07;LAG-LAKE-08,5,5,1,0.99851,synthetic_base_v1_event_overlay
+SYN-BASE-EVT-2024-02,2024-06-16,LAG-LAKE-07;LAG-LAKE-08;LAG-LAKE-09;LAG-LAKE-10;LAG-LAKE-11,5,5,1,0.629061,synthetic_base_v1_event_overlay
+SYN-BASE-EVT-2025-01,2025-03-18,LAG-LAKE-10;LAG-LAKE-11;LAG-LAKE-12;LAG-LAKE-13;LAG-LAKE-14,5,5,1,0.995176,synthetic_base_v1_event_overlay
+SYN-BASE-EVT-2025-02,2025-06-21,LAG-LAKE-13;LAG-LAKE-14;LAG-LAKE-15;LAG-LAKE-01;LAG-LAKE-02,5,5,1,0.987962,synthetic_base_v1_event_overlay

@@ -1,0 +1,151 @@
+﻿station,year,variables_present,complete_all_six,missing_variables
+Stn I - West Bay,2016,6,yes,
+Stn I - West Bay,2017,5,no,Water temperature
+Stn I - West Bay,2018,6,yes,
+Stn I - West Bay,2019,6,yes,
+Stn I - West Bay,2020,6,yes,
+Stn I - West Bay,2021,6,yes,
+Stn I - West Bay,2022,6,yes,
+Stn I - West Bay,2023,6,yes,
+Stn I - West Bay,2024,6,yes,
+Stn I - West Bay,2025,6,yes,
+Stn II - East Bay,2016,6,yes,
+Stn II - East Bay,2017,5,no,Water temperature
+Stn II - East Bay,2018,6,yes,
+Stn II - East Bay,2019,6,yes,
+Stn II - East Bay,2020,6,yes,
+Stn II - East Bay,2021,6,yes,
+Stn II - East Bay,2022,6,yes,
+Stn II - East Bay,2023,6,yes,
+Stn II - East Bay,2024,6,yes,
+Stn II - East Bay,2025,6,yes,
+Stn IV - Central Bay,2016,6,yes,
+Stn IV - Central Bay,2017,5,no,Water temperature
+Stn IV - Central Bay,2018,6,yes,
+Stn IV - Central Bay,2019,6,yes,
+Stn IV - Central Bay,2020,6,yes,
+Stn IV - Central Bay,2021,6,yes,
+Stn IV - Central Bay,2022,6,yes,
+Stn IV - Central Bay,2023,6,yes,
+Stn IV - Central Bay,2024,6,yes,
+Stn IV - Central Bay,2025,6,yes,
+Stn V - West Bay near Pasig River,2016,6,yes,
+Stn V - West Bay near Pasig River,2017,5,no,Water temperature
+Stn V - West Bay near Pasig River,2018,6,yes,
+Stn V - West Bay near Pasig River,2019,6,yes,
+Stn V - West Bay near Pasig River,2020,6,yes,
+Stn V - West Bay near Pasig River,2021,6,yes,
+Stn V - West Bay near Pasig River,2022,6,yes,
+Stn V - West Bay near Pasig River,2023,6,yes,
+Stn V - West Bay near Pasig River,2024,6,yes,
+Stn V - West Bay near Pasig River,2025,6,yes,
+Stn VIII - South Bay,2016,6,yes,
+Stn VIII - South Bay,2017,5,no,Water temperature
+Stn VIII - South Bay,2018,6,yes,
+Stn VIII - South Bay,2019,6,yes,
+Stn VIII - South Bay,2020,6,yes,
+Stn VIII - South Bay,2021,6,yes,
+Stn VIII - South Bay,2022,6,yes,
+Stn VIII - South Bay,2023,6,yes,
+Stn VIII - South Bay,2024,6,yes,
+Stn VIII - South Bay,2025,6,yes,
+Stn XV - San Pedro,2016,6,yes,
+Stn XV - San Pedro,2017,5,no,Water temperature
+Stn XV - San Pedro,2018,6,yes,
+Stn XV - San Pedro,2019,6,yes,
+Stn XV - San Pedro,2020,6,yes,
+Stn XV - San Pedro,2021,6,yes,
+Stn XV - San Pedro,2022,6,yes,
+Stn XV - San Pedro,2023,6,yes,
+Stn XV - San Pedro,2024,6,yes,
+Stn XV - San Pedro,2025,6,yes,
+Stn XVI -Sta. Rosa,2016,6,yes,
+Stn XVI -Sta. Rosa,2017,5,no,Water temperature
+Stn XVI -Sta. Rosa,2018,6,yes,
+Stn XVI -Sta. Rosa,2019,6,yes,
+Stn XVI -Sta. Rosa,2020,6,yes,
+Stn XVI -Sta. Rosa,2021,6,yes,
+Stn XVI -Sta. Rosa,2022,6,yes,
+Stn XVI -Sta. Rosa,2023,6,yes,
+Stn XVI -Sta. Rosa,2024,6,yes,
+Stn XVI -Sta. Rosa,2025,6,yes,
+Stn XVII - Sanctuary,2016,6,yes,
+Stn XVII - Sanctuary,2017,5,no,Water temperature
+Stn XVII - Sanctuary,2018,6,yes,
+Stn XVII - Sanctuary,2019,6,yes,
+Stn XVII - Sanctuary,2020,6,yes,
+Stn XVII - Sanctuary,2021,6,yes,
+Stn XVII - Sanctuary,2022,6,yes,
+Stn XVII - Sanctuary,2023,6,yes,
+Stn XVII - Sanctuary,2024,6,yes,
+Stn XVII - Sanctuary,2025,6,yes,
+Stn XVIII - Pagsanjan,2016,6,yes,
+Stn XVIII - Pagsanjan,2017,5,no,Water temperature
+Stn XVIII - Pagsanjan,2018,6,yes,
+Stn XVIII - Pagsanjan,2019,6,yes,
+Stn XVIII - Pagsanjan,2020,6,yes,
+Stn XVIII - Pagsanjan,2021,6,yes,
+Stn XVIII - Pagsanjan,2022,6,yes,
+Stn XVIII - Pagsanjan,2023,6,yes,
+Stn XVIII - Pagsanjan,2024,6,yes,
+Stn XVIII - Pagsanjan,2025,6,yes,
+Stn. XIII (Taytay),2016,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIII (Taytay),2017,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIII (Taytay),2018,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIII (Taytay),2019,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIII (Taytay),2020,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIII (Taytay),2021,6,yes,
+Stn. XIII (Taytay),2022,6,yes,
+Stn. XIII (Taytay),2023,6,yes,
+Stn. XIII (Taytay),2024,6,yes,
+Stn. XIII (Taytay),2025,6,yes,
+Stn. XIX (Muntinlupa),2016,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIX (Muntinlupa),2017,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIX (Muntinlupa),2018,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIX (Muntinlupa),2019,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIX (Muntinlupa),2020,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XIX (Muntinlupa),2021,6,yes,
+Stn. XIX (Muntinlupa),2022,6,yes,
+Stn. XIX (Muntinlupa),2023,6,yes,
+Stn. XIX (Muntinlupa),2024,6,yes,
+Stn. XIX (Muntinlupa),2025,6,yes,
+Stn. XX (GEMS),2016,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XX (GEMS),2017,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XX (GEMS),2018,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XX (GEMS),2019,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XX (GEMS),2020,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XX (GEMS),2021,6,yes,
+Stn. XX (GEMS),2022,6,yes,
+Stn. XX (GEMS),2023,6,yes,
+Stn. XX (GEMS),2024,6,yes,
+Stn. XX (GEMS),2025,6,yes,
+Stn. XXI (Cardona),2016,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXI (Cardona),2017,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXI (Cardona),2018,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXI (Cardona),2019,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXI (Cardona),2020,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXI (Cardona),2021,6,yes,
+Stn. XXI (Cardona),2022,6,yes,
+Stn. XXI (Cardona),2023,6,yes,
+Stn. XXI (Cardona),2024,6,yes,
+Stn. XXI (Cardona),2025,6,yes,
+Stn. XXII (Jala-jala),2016,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXII (Jala-jala),2017,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXII (Jala-jala),2018,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXII (Jala-jala),2019,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXII (Jala-jala),2020,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXII (Jala-jala),2021,6,yes,
+Stn. XXII (Jala-jala),2022,6,yes,
+Stn. XXII (Jala-jala),2023,6,yes,
+Stn. XXII (Jala-jala),2024,6,yes,
+Stn. XXII (Jala-jala),2025,6,yes,
+Stn. XXIII (Lumban),2016,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXIII (Lumban),2017,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXIII (Lumban),2018,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXIII (Lumban),2019,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXIII (Lumban),2020,0,no,Nitrate | Phosphate | Biochemical oxygen demand (BOD) | pH | Water temperature | Dissolved oxygen (DO)
+Stn. XXIII (Lumban),2021,6,yes,
+Stn. XXIII (Lumban),2022,6,yes,
+Stn. XXIII (Lumban),2023,6,yes,
+Stn. XXIII (Lumban),2024,6,yes,
+Stn. XXIII (Lumban),2025,6,yes,

@@ -1,0 +1,9 @@
+policy_id,policy,split,stations_required,cooldown_hours,lead_window_hours,threshold,raw_alert_rows,episodes,events,events_detected,false_episodes,median_lead_days,mean_lead_days,min_lead_days,max_lead_days,data_origin,warning
+single_station_72h,"1 station, 72h cooldown",validation,1,72,72,0.5,14,2,2,2,0,2.0,2.0,2,2,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+two_station_no_cooldown,"2 stations, no cooldown",validation,2,0,72,0.5,14,3,2,2,0,1.5,1.5,1,2,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+two_station_72h,"2 stations, 72h cooldown",validation,2,72,72,0.5,14,2,2,2,0,1.5,1.5,1,2,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+three_station_72h,"3 stations, 72h cooldown",validation,3,72,72,0.5,14,2,2,2,0,1.5,1.5,1,2,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+single_station_72h,"1 station, 72h cooldown",test,1,72,72,0.5,44,5,4,4,1,3.0,3.0,3,3,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+two_station_no_cooldown,"2 stations, no cooldown",test,2,0,72,0.5,44,11,4,4,0,3.0,2.75,2,3,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+two_station_72h,"2 stations, 72h cooldown",test,2,72,72,0.5,44,4,4,4,0,3.0,2.75,2,3,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE
+three_station_72h,"3 stations, 72h cooldown",test,3,72,72,0.5,44,4,4,4,0,2.0,2.0,2,2,synthetic_base_v1_event_overlay,SIMULATION ONLY - NOT EVIDENCE

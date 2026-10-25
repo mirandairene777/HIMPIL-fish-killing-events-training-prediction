@@ -1,0 +1,9 @@
+check,value,note
+modelling_dataset_exists,TRUE,Header-only template is expected at this stage
+modelling_dataset_rows,0,No invented observations
+label_column_present,TRUE,Target is blocked by prepare_labels.py
+labelled_rows,0,No 24-hour labels were generated
+positive_labels,0,No documented positive windows
+negative_labels,0,No credible negative windows
+test_predictions_file,FALSE,No model has been trained
+model_evaluation_status,not_available,No metric is reported without real predictions

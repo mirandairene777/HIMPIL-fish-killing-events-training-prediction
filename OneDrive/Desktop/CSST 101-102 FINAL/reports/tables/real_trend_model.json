@@ -1,0 +1,75 @@
+{
+  "generatedAtUtc": "2026-10-24T12:57:49+00:00",
+  "status": "descriptive_annual_trend",
+  "modelType": "station_fixed_effects_linear_trend",
+  "fishKillPrediction": false,
+  "warning": "Descriptive annual trend only. Not a fish-kill prediction, not a 72-hour model, and not an advisory.",
+  "panel": {
+    "stations": 9,
+    "stationNames": [
+      "Stn I - West Bay",
+      "Stn II - East Bay",
+      "Stn IV - Central Bay",
+      "Stn V - West Bay near Pasig River",
+      "Stn VIII - South Bay",
+      "Stn XV - San Pedro",
+      "Stn XVI -Sta. Rosa",
+      "Stn XVII - Sanctuary",
+      "Stn XVIII - Pagsanjan"
+    ],
+    "years": "2016-2025",
+    "nYears": 10
+  },
+  "targets": {
+    "do": {
+      "label": "Dissolved oxygen (DO)",
+      "unit": "mg/L per year",
+      "n": 90,
+      "nStations": 9,
+      "slopePerYear": -0.111861,
+      "ciLow": -0.141078,
+      "ciHigh": -0.082643,
+      "standardError": 0.014907,
+      "bootstrapLow": -0.137933,
+      "bootstrapHigh": -0.087157,
+      "bootstrapReps": 1000,
+      "rSquared": 0.605079,
+      "direction": "decline",
+      "interpretation": "The 95% confidence interval excludes zero."
+    },
+    "temperature": {
+      "label": "Water temperature",
+      "unit": "deg C per year",
+      "n": 81,
+      "nStations": 9,
+      "slopePerYear": 0.056015,
+      "ciLow": -0.012883,
+      "ciHigh": 0.124912,
+      "standardError": 0.035152,
+      "bootstrapLow": -0.009302,
+      "bootstrapHigh": 0.109758,
+      "bootstrapReps": 1000,
+      "rSquared": 0.165484,
+      "direction": "no clear trend",
+      "interpretation": "The 95% confidence interval includes zero."
+    }
+  },
+  "method": "Ordinary least squares with station fixed effects and a common linear year term; HC3 standard errors; 1,000-replicate cluster bootstrap by station.",
+  "caveat": "The estimates describe annual station summaries. They do not use observation dates, do not establish causation, and do not predict fish kills.",
+  "unsupported": {
+    "target": "72-hour fish-kill prediction",
+    "status": "not_supported",
+    "reasons": [
+      "Water quality is reported as annual station summaries, not dated observations.",
+      "Rainfall and wind are monthly station summaries, not daily or sub-daily series.",
+      "There are zero pre-event observations and zero usable 24-hour labels.",
+      "There is one reported event and no verified negative windows.",
+      "Station coordinates and an authoritative lake-zone crosswalk are absent."
+    ]
+  },
+  "notes": [
+    "The model is fitted only to the nine stations with a complete 2016-2025 DO record.",
+    "The fish-kill risk state remains unavailable and is not derived from this model.",
+    "The synthetic 72-hour experiments remain separate and are not evidence."
+  ]
+}

@@ -1,0 +1,7 @@
+variable,unit,n_station_years,n_stations,mean,sd,median,minimum,maximum
+BOD,mg/L,120,15,2.6132,0.6932,2.6667,1.42,7.5
+Dissolved oxygen (DO),mg/L,120,15,7.7267,0.5401,7.7,6.25,9.1
+Nitrate,mg/L,120,15,0.2318,0.129,0.2008,0.052,0.525
+Phosphate,mg/L,120,15,0.128,0.0541,0.1135,0.0376,0.2536
+Water temperature,deg C,111,15,28.6126,0.7367,28.6667,26,30.2
+pH,pH units,120,15,8.3164,0.2063,8.3099,7.6,8.7909

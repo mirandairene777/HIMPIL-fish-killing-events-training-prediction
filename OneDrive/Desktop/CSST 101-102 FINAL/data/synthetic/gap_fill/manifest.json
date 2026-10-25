@@ -1,0 +1,84 @@
+{
+  "dataset": "himpil_synthetic_gap_fill",
+  "version": "1.0",
+  "status": "synthetic_gap_fill_only",
+  "warning": "SYNTHETIC GAP-FILL - DEMONSTRATION ONLY",
+  "data_origin": "synthetic_gap_fill_v1",
+  "generated_at_utc": "2026-10-24T14:39:37+00:00",
+  "seed": 20261024,
+  "scope": "synthetic_gap_fill",
+  "source_files": {
+    "stations": "data/synthetic/base/stations.csv",
+    "water_quality_daily": "data/synthetic/base/water_quality_daily.csv",
+    "weather_daily": "data/synthetic/base/weather_daily.csv",
+    "synthetic_events": "data/synthetic/base_model/synthetic_events.csv",
+    "modeling_dataset": "data/synthetic/base_model/synthetic_modeling_dataset.csv"
+  },
+  "coverage": {
+    "stations": 15,
+    "zone_assignments": 15,
+    "water_quality_rows": 54795,
+    "weather_rows": 10959,
+    "modeling_rows": 54795,
+    "model_eligible_rows": 53950,
+    "event_reports": 20,
+    "stress_reports": 10,
+    "event_years": 10,
+    "pre_event_rows": 400,
+    "incident_records": 30,
+    "corroboration_records": 40,
+    "negative_windows": 1700,
+    "aggregation_rules": 15
+  },
+  "readiness": {
+    "scope": "synthetic_gap_fill",
+    "checks": 10,
+    "passed": 10,
+    "failed": 0
+  },
+  "real_gate": {
+    "scope": "real_evidence",
+    "status": "unchanged",
+    "passed": 2,
+    "failed": 8,
+    "checks": 10
+  },
+  "quarantine": {
+    "synthetic_only": true,
+    "separate_from_real_evidence_bundle": true,
+    "real_gate_satisfied": false,
+    "contains_synthetic_coordinates": true,
+    "contains_synthetic_incident_reports": true,
+    "contains_real_daily_measurements": false
+  },
+  "output_hashes_sha256": {
+    "data/synthetic/gap_fill/stations.csv": "7438ff95bd2262eb7eef4c88a514245fce8cf89798b06ef1975c853c5a649beb",
+    "data/synthetic/gap_fill/incident_reports.csv": "3c2aec88d8c9dc29ea6e0a0aee99926eb3852f29b95d9b57c96625fc85094098",
+    "data/synthetic/gap_fill/corroboration.csv": "a44ad2b080ddc3c17169498373c121cbeadd88a868e0bff78576d73f5a6ce3c2",
+    "data/synthetic/gap_fill/negative_windows.csv": "40368ca1632f22c800f4eef3802c62f82bbc9a3439548cc6dae9f43a0aa22a97",
+    "data/synthetic/gap_fill/aggregation_rules.csv": "5b6c4a09451809f858c5f5d4a59a728b21500c8264b82d841df8104f56f07b5d",
+    "data/synthetic/gap_fill/readiness_checks.csv": "1bdee1bb8c36d2f956ccad5efd96529f49fb65c078fafcfab836fa53fe44e905",
+    "data/synthetic/gap_fill/pre_event_observations.csv": "db9e6ba2d48160ba1b67a779575041c085197d7a3394a372283bd5d994b19b36",
+    "data/synthetic/gap_fill/README.md": "d1209962131e96748de6418a95be1c903f3d6350c934570d07c53ffb5516442c",
+    "reports/tables/synthetic_gap_fill_database_report.md": "e0268eb86fd3e01a0e3053ffa88d93947f078b3f32039d35cb1567939b5666cf",
+    "data/synthetic/gap_fill/himpil_synthetic_complete.sqlite": "74da7766db74308e31641523f12c5ec2e6b5764d1633ec1fb2edcdb499c5ceb9",
+    "models/synthetic/gap_filled/random_forest_24h.joblib": "0ac7cf202e3ca07390ef76f477e442baac9a101662b8dd8a73f922f5b4e1662a",
+    "models/synthetic/gap_filled/random_forest_48h.joblib": "6c0ff6b147e15605fec576318cd2105f362989fb70a2ca294d744e393214c3c9",
+    "models/synthetic/gap_filled/random_forest_72h.joblib": "ea153e2f0237e060f34a637ee9d2a1b229e9d9889901cdb37ccf087c963baff2"
+  },
+  "model_status": "trained_synthetic_gap_fill",
+  "model": {
+    "seed": 20261024,
+    "model_24h": "models/synthetic/gap_filled/random_forest_24h.joblib",
+    "model_48h": "models/synthetic/gap_filled/random_forest_48h.joblib",
+    "model_72h": "models/synthetic/gap_filled/random_forest_72h.joblib",
+    "metrics": "reports/tables/synthetic_gap_filled_model_metrics.csv",
+    "report": "reports/tables/synthetic_gap_filled_model_report.md",
+    "model_card": "reports/tables/synthetic_gap_filled_model_card.md",
+    "dashboard_payload": "dashboard/src/data/syntheticDemo.json",
+    "event_detection": {
+      "detected": 4,
+      "total": 4
+    }
+  }
+}

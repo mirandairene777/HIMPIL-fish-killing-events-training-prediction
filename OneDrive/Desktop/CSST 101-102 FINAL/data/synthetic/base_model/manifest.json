@@ -1,0 +1,142 @@
+{
+  "dataset": "himpil_synthetic_base_model",
+  "version": "1.0",
+  "status": "synthetic_model_only",
+  "warning": "SIMULATION ONLY - NOT EVIDENCE",
+  "data_origin": "synthetic_base_v1_event_overlay",
+  "generated_at_utc": "2026-10-24T13:41:59+00:00",
+  "seed": 20261023,
+  "source_dataset": "data/synthetic/base",
+  "source_hashes_sha256": {
+    "data/synthetic/base/water_quality_daily.csv": "354a5e6a28b5ea695e431744b3dda0ae8c8658f55eda1dcde0597182603e7e80",
+    "data/synthetic/base/weather_daily.csv": "794bd0b2e41ee489a1c13709b1fcdb6ae343ef6ef689aa90893dd6504453c124",
+    "data/synthetic/base/stations.csv": "842cf273a0d6c3c01d18250809717405607cfa2f6abeb0e5e60a9d8b4769c3e7"
+  },
+  "coverage": {
+    "rows": 54795,
+    "stations": 15,
+    "start_date": "2016-01-01",
+    "end_date": "2025-12-31",
+    "synthetic_event_periods": 20,
+    "synthetic_stress_periods": 10,
+    "model_eligible_rows": 53950
+  },
+  "features": [
+    "nitrate_mg_l",
+    "phosphate_mg_l",
+    "bod_mg_l",
+    "ph",
+    "water_temp_c",
+    "do_mg_l",
+    "rainfall_mm_mean",
+    "wind_mps_mean",
+    "air_temp_c_mean",
+    "do_lag1",
+    "do_lag2",
+    "do_lag3",
+    "do_roll3_mean",
+    "do_roll7_mean",
+    "do_min3",
+    "do_range3",
+    "do_change_1d",
+    "temp_roll3_mean",
+    "temp_change_1d",
+    "bod_roll3_mean",
+    "ph_roll3_mean",
+    "rain_3d_sum",
+    "rain_7d_sum",
+    "wind_roll3_mean",
+    "nutrient_load",
+    "nutrient_roll3_mean"
+  ],
+  "split": {
+    "train": "2016-01-01 to 2022-12-31",
+    "validation": "2023-01-01 to 2023-12-31",
+    "test": "2024-01-01 to 2025-12-31"
+  },
+  "test_random_forest": [
+    {
+      "horizon_hours": 24,
+      "n_positive": 20,
+      "precision": 0.45454545454545453,
+      "recall": 1.0,
+      "f1": 0.625,
+      "pr_auc": 0.5677572793659882,
+      "roc_auc": 0.999119146963375,
+      "brier": 0.0019586825264714357
+    },
+    {
+      "horizon_hours": 48,
+      "n_positive": 40,
+      "precision": 0.5970149253731343,
+      "recall": 1.0,
+      "f1": 0.7476635514018691,
+      "pr_auc": 0.9572466937252898,
+      "roc_auc": 0.9998420808174641,
+      "brier": 0.0020910562736364156
+    },
+    {
+      "horizon_hours": 72,
+      "n_positive": 60,
+      "precision": 0.6704545454545454,
+      "recall": 0.9833333333333333,
+      "f1": 0.7972972972972973,
+      "pr_auc": 0.9470897136324732,
+      "roc_auc": 0.9995315650690244,
+      "brier": 0.0026296931852326224
+    }
+  ],
+  "test_24h_error_profile": [
+    {
+      "period_type": "baseline",
+      "rows": 10653,
+      "positives": 0,
+      "alerts": 0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "max_probability": 0.408524,
+      "data_origin": "synthetic_base_v1_event_overlay"
+    },
+    {
+      "period_type": "pre_event",
+      "rows": 80,
+      "positives": 20,
+      "alerts": 43,
+      "true_positives": 20,
+      "false_positives": 23,
+      "false_negatives": 0,
+      "max_probability": 0.998605,
+      "data_origin": "synthetic_base_v1_event_overlay"
+    },
+    {
+      "period_type": "stress_only",
+      "rows": 72,
+      "positives": 0,
+      "alerts": 1,
+      "true_positives": 0,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "max_probability": 0.563758,
+      "data_origin": "synthetic_base_v1_event_overlay"
+    }
+  ],
+  "quarantine": {
+    "not_evidence": true,
+    "does_not_satisfy_model_gate": true,
+    "not_connected_to_dashboard": true,
+    "contains_real_station_labels": true,
+    "contains_real_annual_anchors": false,
+    "derived_from_dataset_with_real_annual_anchors": true,
+    "contains_real_daily_measurements": false,
+    "contains_synthetic_event_labels": true,
+    "contains_real_event_dates": false
+  },
+  "limitations": [
+    "Event dates and effects are synthetic.",
+    "Labels are generated from the synthetic event schedule.",
+    "Metrics are optimistic because the event effect is in the features.",
+    "No real daily observations or verified fish-kill events are used.",
+    "No station coordinates or authoritative station-to-zone crosswalk."
+  ]
+}

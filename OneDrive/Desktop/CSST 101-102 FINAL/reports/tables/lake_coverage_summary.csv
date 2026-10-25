@@ -1,0 +1,8 @@
+﻿measure,potential_lake_station_years,numeric_values,missing_values,complete_percent
+Nitrate,150,120,30,80.0
+Phosphate,150,120,30,80.0
+Biochemical oxygen demand (BOD),150,120,30,80.0
+pH,150,120,30,80.0
+Water temperature,150,111,39,74.0
+Dissolved oxygen (DO),150,120,30,80.0
+All six variables simultaneously,150,111,39,74.0

@@ -1,0 +1,38 @@
+{
+  "status": "synthetic_prototype_only",
+  "warning": "SIMULATION ONLY - NOT EVIDENCE",
+  "data_origin": "synthetic_simulation",
+  "seed": 20261023,
+  "generated_at_utc": "2026-10-23T09:36:51+00:00",
+  "simulation_calendar": {
+    "start": "2021-01-01",
+    "end": "2024-12-31"
+  },
+  "row_count": 8766,
+  "station_count": 6,
+  "event_period_count": 8,
+  "stress_period_count": 3,
+  "split_counts": {
+    "test": 2196,
+    "train": 4380,
+    "validation": 2190
+  },
+  "test_positive_counts": {
+    "y_24h": 6,
+    "y_48h": 12,
+    "y_72h": 18
+  },
+  "metric_rows": 11,
+  "quarantine": {
+    "not_in_processed_data": true,
+    "not_real_model_artifact": true,
+    "not_connected_to_dashboard": true,
+    "does_not_satisfy_model_gate": true
+  },
+  "artifacts": {
+    "report": "reports/tables/synthetic_prototype_report.md",
+    "model_card": "reports/tables/synthetic_model_card.md",
+    "metrics": "reports/tables/synthetic_prototype_metrics.csv",
+    "models": "models/synthetic/"
+  }
+}

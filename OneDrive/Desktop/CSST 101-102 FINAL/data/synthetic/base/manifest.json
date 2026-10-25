@@ -1,0 +1,91 @@
+{
+  "dataset": "himpil_synthetic_base",
+  "version": "1.0",
+  "status": "synthetic_base_only",
+  "warning": "SIMULATION ONLY - NOT EVIDENCE",
+  "data_origin": "synthetic_base_v1",
+  "generated_at_utc": "2026-10-23T10:02:20+00:00",
+  "seed": 20261023,
+  "source_files": {
+    "station_registry": "data/processed/station_registry.csv",
+    "water_quality_lake_annual": "data/processed/water_quality_lake_annual.csv",
+    "rainfall_monthly": "data/processed/rainfall_monthly.csv",
+    "wind_monthly": "data/processed/wind_monthly.csv"
+  },
+  "source_hashes_sha256": {
+    "data/processed/station_registry.csv": "c9e90bb76eb28f4f1281a7b61e4d0702e115625304a54a3c8058f8c4456e3da1",
+    "data/processed/water_quality_lake_annual.csv": "c34952b46840db48d9776fbce785c93d6df6c10e1dda9722c8904e59f668d19a",
+    "data/processed/rainfall_monthly.csv": "342b92b8334ecb5f4fda6ebebb02c893dc392479222f7df2739356cdaf1e04d3",
+    "data/processed/wind_monthly.csv": "02a5ffe28cff20675178d292f6c0b3440d3ccdcb3a6143df5f308156fdb40968"
+  },
+  "coverage": {
+    "stations": 15,
+    "start_date": "2016-01-01",
+    "end_date": "2025-12-31",
+    "water_quality_rows": 54795,
+    "weather_rows": 10959,
+    "weather_zones": 3,
+    "variables": [
+      "Nitrate",
+      "Phosphate",
+      "BOD",
+      "pH",
+      "Water temperature",
+      "Dissolved oxygen (DO)"
+    ]
+  },
+  "anchors": {
+    "rows": 900,
+    "real_numeric_values": 711,
+    "synthetic_imputations": 189,
+    "2025_unverified_completeness": 90
+  },
+  "calibration": {
+    "mean_absolute_annual_mean_error": 4.73e-05,
+    "max_absolute_annual_mean_error": 0.000464
+  },
+  "weather_zones": [
+    {
+      "weather_zone_id": "SYN-WX-WEST",
+      "calibration_source_station": "Ambulong, Batangas",
+      "air_temp_offset_c": -0.1
+    },
+    {
+      "weather_zone_id": "SYN-WX-CENTRAL",
+      "calibration_source_station": "Tanay, Rizal",
+      "air_temp_offset_c": 0.0
+    },
+    {
+      "weather_zone_id": "SYN-WX-EAST",
+      "calibration_source_station": "Tayabas, Quezon",
+      "air_temp_offset_c": 0.1
+    }
+  ],
+  "quarantine": {
+    "not_evidence": true,
+    "does_not_satisfy_model_gate": true,
+    "not_connected_to_dashboard": true,
+    "contains_fish_kill_labels": false,
+    "contains_real_station_labels": true,
+    "contains_real_annual_anchors": true,
+    "contains_real_daily_measurements": false,
+    "contains_station_coordinates": false
+  },
+  "limitations": [
+    "Daily values are synthetic and are calibrated only to annual station means.",
+    "Seasonal shapes, noise, and weather-zone mapping are simulation choices.",
+    "Ten of fifteen lake stations have no supplied zone label.",
+    "2025 annual anchors have unverified source completeness.",
+    "Tributary stations in the real registry are not generated.",
+    "No fish-kill labels, real event dates, coordinates, or risk scores are included."
+  ],
+  "output_hashes_sha256": {
+    "data/synthetic/base/stations.csv": "842cf273a0d6c3c01d18250809717405607cfa2f6abeb0e5e60a9d8b4769c3e7",
+    "data/synthetic/base/calibration_anchors.csv": "a00db029af451c4470d0f771575bf17b48c10f5ab2c15d01b2cf8b6943d49a7e",
+    "data/synthetic/base/water_quality_daily.csv": "354a5e6a28b5ea695e431744b3dda0ae8c8658f55eda1dcde0597182603e7e80",
+    "data/synthetic/base/weather_daily.csv": "794bd0b2e41ee489a1c13709b1fcdb6ae343ef6ef689aa90893dd6504453c124",
+    "data/synthetic/base/himpil_synthetic_base.sqlite": "e88f12f1a2b130acb757b2dea8fdc55a948afe321f6336e2e695e0e93a4d8201",
+    "data/synthetic/base/data_dictionary.md": "d6da1672b404e70b8f4ee9147cfb0d18276fa713bc9b04514b3c2e7f40eb7930",
+    "data/synthetic/base/README.md": "a3f7a2b9f1128e327371810b675dca0f781e6bd010d4536505fa14e0e1164509"
+  }
+}

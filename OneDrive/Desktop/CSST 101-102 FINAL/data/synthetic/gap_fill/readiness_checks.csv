@@ -1,0 +1,11 @@
+﻿check,requirement,synthetic_status,synthetic_evidence,real_status,real_evidence,scope,data_origin
+T1,A modelling dataset table exists,pass,"modeling_dataset (54,795 rows)",pass,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T2,The dataset contains dated observations,pass,"54,795 synthetic station-days",fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T3,The 24-hour target exists,pass,"columns: y_24h, y_48h, y_72h",pass,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T4,Both classes are present,pass,"positive=100, negative=53,850",fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T5,Observations have valid timestamps,pass,"54,795 valid dates",fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T6,Multiple independent event groups support a chronological split,pass,20 synthetic event reports,fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T7,Multiple years support train/validation/test periods,pass,10 distinct years,fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T8,Pre-event features were measured before the event,pass,400 dated pre-event rows across 20 events,fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T9,Station coordinates and a documented lake-zone mapping exist,pass,15 coordinates; 15 zone assignments,fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1
+T10,Credible non-event windows are documented,pass,"1,700 synthetic patrol windows; 40 corroboration records; 15 station rules",fail,See data/outputs/training_status.csv,synthetic_gap_fill,synthetic_gap_fill_v1

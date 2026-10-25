@@ -1,0 +1,61 @@
+year,variable,station_years_expected,reported,missing,missing_percent
+2016,BOD,15,9,6,40
+2016,Dissolved oxygen (DO),15,9,6,40
+2016,Nitrate,15,9,6,40
+2016,Phosphate,15,9,6,40
+2016,Water temperature,15,9,6,40
+2016,pH,15,9,6,40
+2017,BOD,15,9,6,40
+2017,Dissolved oxygen (DO),15,9,6,40
+2017,Nitrate,15,9,6,40
+2017,Phosphate,15,9,6,40
+2017,Water temperature,15,0,15,100
+2017,pH,15,9,6,40
+2018,BOD,15,9,6,40
+2018,Dissolved oxygen (DO),15,9,6,40
+2018,Nitrate,15,9,6,40
+2018,Phosphate,15,9,6,40
+2018,Water temperature,15,9,6,40
+2018,pH,15,9,6,40
+2019,BOD,15,9,6,40
+2019,Dissolved oxygen (DO),15,9,6,40
+2019,Nitrate,15,9,6,40
+2019,Phosphate,15,9,6,40
+2019,Water temperature,15,9,6,40
+2019,pH,15,9,6,40
+2020,BOD,15,9,6,40
+2020,Dissolved oxygen (DO),15,9,6,40
+2020,Nitrate,15,9,6,40
+2020,Phosphate,15,9,6,40
+2020,Water temperature,15,9,6,40
+2020,pH,15,9,6,40
+2021,BOD,15,15,0,0
+2021,Dissolved oxygen (DO),15,15,0,0
+2021,Nitrate,15,15,0,0
+2021,Phosphate,15,15,0,0
+2021,Water temperature,15,15,0,0
+2021,pH,15,15,0,0
+2022,BOD,15,15,0,0
+2022,Dissolved oxygen (DO),15,15,0,0
+2022,Nitrate,15,15,0,0
+2022,Phosphate,15,15,0,0
+2022,Water temperature,15,15,0,0
+2022,pH,15,15,0,0
+2023,BOD,15,15,0,0
+2023,Dissolved oxygen (DO),15,15,0,0
+2023,Nitrate,15,15,0,0
+2023,Phosphate,15,15,0,0
+2023,Water temperature,15,15,0,0
+2023,pH,15,15,0,0
+2024,BOD,15,15,0,0
+2024,Dissolved oxygen (DO),15,15,0,0
+2024,Nitrate,15,15,0,0
+2024,Phosphate,15,15,0,0
+2024,Water temperature,15,15,0,0
+2024,pH,15,15,0,0
+2025,BOD,15,15,0,0
+2025,Dissolved oxygen (DO),15,15,0,0
+2025,Nitrate,15,15,0,0
+2025,Phosphate,15,15,0,0
+2025,Water temperature,15,15,0,0
+2025,pH,15,15,0,0

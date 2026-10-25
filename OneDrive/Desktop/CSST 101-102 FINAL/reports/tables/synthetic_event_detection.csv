@@ -1,0 +1,3 @@
+﻿event_id,pre_event_station_rows,alerts_at_0_5,detected_at_least_once,max_probability,data_origin
+SYN-EVT-2024-01,3,3,1,0.915907729227027,synthetic_simulation
+SYN-EVT-2024-02,3,3,1,0.9993671178635989,synthetic_simulation

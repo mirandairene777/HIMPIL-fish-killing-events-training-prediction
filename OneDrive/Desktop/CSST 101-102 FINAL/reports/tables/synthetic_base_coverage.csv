@@ -1,0 +1,61 @@
+﻿year,variable,variable_key,unit,rows,stations,synthetic_min,synthetic_mean,synthetic_max
+2016,Nitrate,nitrate,mg/L,5490,15,0.07,0.2181,0.518
+2016,Phosphate,phosphate,mg/L,5490,15,0.033,0.112,0.297
+2016,BOD,bod,mg/L,5490,15,0.909,2.283,5.117
+2016,pH,ph,pH units,5490,15,7.688,8.4103,8.897
+2016,Water temperature,temperature,deg C,5490,15,23.68,28.3877,32.08
+2016,Dissolved oxygen (DO),do,mg/L,5490,15,5.35,7.8241,10.29
+2017,Nitrate,nitrate,mg/L,5475,15,0.054,0.2405,0.675
+2017,Phosphate,phosphate,mg/L,5475,15,0.051,0.1411,0.32
+2017,BOD,bod,mg/L,5475,15,1.436,2.9864,9.86
+2017,pH,ph,pH units,5475,15,7.676,8.2234,8.468
+2017,Water temperature,temperature,deg C,5475,15,25.83,28.6464,31.7
+2017,Dissolved oxygen (DO),do,mg/L,5475,15,5.55,8.0535,10.13
+2018,Nitrate,nitrate,mg/L,5475,15,0.031,0.2507,0.887
+2018,Phosphate,phosphate,mg/L,5475,15,0.056,0.1302,0.323
+2018,BOD,bod,mg/L,5475,15,1.088,2.3557,4.724
+2018,pH,ph,pH units,5475,15,7.697,8.4145,8.812
+2018,Water temperature,temperature,deg C,5475,15,25.71,29.001,31.82
+2018,Dissolved oxygen (DO),do,mg/L,5475,15,5.56,7.9752,10.48
+2019,Nitrate,nitrate,mg/L,5475,15,0.029,0.147,0.547
+2019,Phosphate,phosphate,mg/L,5475,15,0.056,0.1236,0.301
+2019,BOD,bod,mg/L,5475,15,1.577,2.8364,5.526
+2019,pH,ph,pH units,5475,15,7.706,8.4012,8.828
+2019,Water temperature,temperature,deg C,5475,15,25.03,28.401,31.67
+2019,Dissolved oxygen (DO),do,mg/L,5475,15,5.53,7.6618,9.75
+2020,Nitrate,nitrate,mg/L,5490,15,0.053,0.1882,0.524
+2020,Phosphate,phosphate,mg/L,5490,15,0.028,0.0901,0.292
+2020,BOD,bod,mg/L,5490,15,1.528,2.7719,5.011
+2020,pH,ph,pH units,5490,15,7.678,8.2968,8.584
+2020,Water temperature,temperature,deg C,5490,15,24.6,28.1134,31.33
+2020,Dissolved oxygen (DO),do,mg/L,5490,15,5.41,7.6142,9.34
+2021,Nitrate,nitrate,mg/L,5475,15,0.057,0.1503,0.43
+2021,Phosphate,phosphate,mg/L,5475,15,0.022,0.1026,0.264
+2021,BOD,bod,mg/L,5475,15,1.125,2.4956,5.32
+2021,pH,ph,pH units,5475,15,8.046,8.3755,8.631
+2021,Water temperature,temperature,deg C,5475,15,25.06,28.5812,32.0
+2021,Dissolved oxygen (DO),do,mg/L,5475,15,5.52,7.7276,9.17
+2022,Nitrate,nitrate,mg/L,5475,15,0.05,0.1951,0.504
+2022,Phosphate,phosphate,mg/L,5475,15,0.029,0.1605,0.377
+2022,BOD,bod,mg/L,5475,15,1.769,3.0558,5.732
+2022,pH,ph,pH units,5475,15,7.743,8.2016,8.53
+2022,Water temperature,temperature,deg C,5475,15,26.14,29.1082,32.12
+2022,Dissolved oxygen (DO),do,mg/L,5475,15,5.48,7.6111,9.3
+2023,Nitrate,nitrate,mg/L,5475,15,0.047,0.3389,0.754
+2023,Phosphate,phosphate,mg/L,5475,15,0.076,0.2146,0.381
+2023,BOD,bod,mg/L,5475,15,1.086,1.9528,3.918
+2023,pH,ph,pH units,5475,15,7.469,8.1867,8.494
+2023,Water temperature,temperature,deg C,5475,15,25.58,28.6778,31.69
+2023,Dissolved oxygen (DO),do,mg/L,5475,15,5.95,7.46,8.92
+2024,Nitrate,nitrate,mg/L,5490,15,0.07,0.2019,0.665
+2024,Phosphate,phosphate,mg/L,5490,15,0.051,0.1133,0.25
+2024,BOD,bod,mg/L,5490,15,1.373,2.7333,5.706
+2024,pH,ph,pH units,5490,15,7.627,8.317,8.671
+2024,Water temperature,temperature,deg C,5490,15,26.22,29.0591,32.08
+2024,Dissolved oxygen (DO),do,mg/L,5490,15,5.72,7.5007,9.39
+2025,Nitrate,nitrate,mg/L,5475,15,0.152,0.4392,0.889
+2025,Phosphate,phosphate,mg/L,5475,15,0.035,0.1205,0.286
+2025,BOD,bod,mg/L,5475,15,1.53,2.85,4.503
+2025,pH,ph,pH units,5475,15,7.549,8.1433,8.431
+2025,Water temperature,temperature,deg C,5475,15,25.29,28.4882,31.73
+2025,Dissolved oxygen (DO),do,mg/L,5475,15,5.29,7.2277,9.25

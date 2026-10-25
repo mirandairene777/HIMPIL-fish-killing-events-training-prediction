@@ -1,0 +1,27 @@
+﻿file,sheet,variable,total_station_period_cells,numeric_cells,missing_cells,missing_percent,ellipsis_undefined_cells,no_data_symbol_cells,station_discontinued_cells,blank_cells,other_non_numeric_cells,out_of_range_cells
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2016,Rainfall,684,660,24,3.51,0,24,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2017,Rainfall,684,657,27,3.95,15,12,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2018,Rainfall,684,657,27,3.95,15,12,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2019,Rainfall,696,658,38,5.46,26,12,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2020,Rainfall,696,649,47,6.75,35,12,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2021,Rainfall,720,660,60,8.33,36,24,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2022,Rainfall,720,670,50,6.94,50,0,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2023,Rainfall,732,676,56,7.65,9,47,0,0,0,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2024,Rainfall,696,659,37,5.32,0,18,0,18,1,0
+"Table 1.2 Amount of Rainfall by Monitoring Station, 2016–2025.xlsx",2025,Rainfall,696,336,360,51.72,0,12,0,348,0,0
+"Table 1.32 Concentration Level of Nitrate in Laguna de Bay and its Major Tributaries, 2016–2025.xlsx",1.32,Nitrate,580,475,105,18.1,88,3,14,0,0,0
+"Table 1.33 Concentration Level of Phosphate in Laguna de Bay and its Major Tributaries, 2016–2025.xlsx",1.33,Phosphate,580,480,100,17.24,41,45,14,0,0,0
+"Table 1.34.2 Concentration Level of BOD in Laguna de Bay and its Major Tributaries, 2016–2025.xlsx",1.34.2,Biochemical oxygen demand (BOD),580,478,102,17.59,41,47,14,0,0,0
+"Table 1.37 Levels of pH in Laguna de Bay and its Major Tributaries, 2016–2025.xlsx",1.37,pH,540,415,125,23.15,0,111,14,0,0,0
+"Table 1.38 Temperature of Laguna de Bay and its Major Tributaries, 2016–2025.xlsx",1.38,Water temperature,540,339,201,37.22,150,34,14,3,0,0
+"Table 1.39.2 Concentration Level of DO in Laguna de Bay and its Major Tributaries, 2016–2025.xlsx",1.39.2,Dissolved oxygen (DO),580,472,108,18.62,47,33,14,14,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2016,Wind speed,696,660,36,5.17,24,12,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2017,Wind speed,696,656,40,5.75,28,12,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2018,Wind speed,696,656,40,5.75,28,12,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2019,Wind speed,708,659,49,6.92,37,12,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2020,Wind speed,708,651,57,8.05,45,12,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2021,Wind speed,732,663,69,9.43,45,24,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2022,Wind speed,732,671,61,8.33,0,61,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2023,Wind speed,756,675,81,10.71,0,81,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2024,Wind speed,768,667,101,13.15,0,101,0,0,0,0
+"Table 1.6 Wind Speed by Monitoring Station, 2016–2025.xlsx",2025,Wind speed,768,330,438,57.03,0,78,0,360,0,0

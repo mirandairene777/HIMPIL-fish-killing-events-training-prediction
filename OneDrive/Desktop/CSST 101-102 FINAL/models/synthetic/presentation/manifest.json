@@ -1,0 +1,43 @@
+{
+  "status": "synthetic_presentation_demo",
+  "warning": "SIMULATION ONLY - NOT EVIDENCE",
+  "data_origin": "synthetic_base_v1_event_overlay",
+  "target": "y_72h",
+  "target_description": "synthetic event start within 72 hours at the same station",
+  "features": [
+    "do_mg_l",
+    "water_temp_c",
+    "ph",
+    "rainfall_mm_mean",
+    "wind_mps_mean"
+  ],
+  "feature_labels": {
+    "do_mg_l": "Dissolved oxygen (mg/L)",
+    "water_temp_c": "Water temperature (C)",
+    "ph": "pH",
+    "rainfall_mm_mean": "Rainfall (mm)",
+    "wind_mps_mean": "Wind speed (m/s)"
+  },
+  "threshold": 0.5,
+  "demo_bands": {
+    "low": "p < 0.25",
+    "medium": "0.25 <= p < 0.5",
+    "high": "p >= 0.5"
+  },
+  "band_thresholds": {
+    "low_max": 0.25,
+    "high_min": 0.5
+  },
+  "seed": 20261023,
+  "train_rows": 37750,
+  "validation_rows": 5395,
+  "test_rows": 10805,
+  "source_panel": "data/synthetic/base_model/synthetic_modeling_dataset.csv",
+  "source_events": "data/synthetic/base_model/synthetic_events.csv",
+  "quarantine": {
+    "not_evidence": true,
+    "does_not_satisfy_model_gate": true,
+    "not_connected_to_dashboard": true,
+    "not_for_real_advisories": true
+  }
+}

@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Source data: do not commit without checking data-use terms
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep
+
+# Generated models and figures
+models/*
+!models/.gitkeep
+# Keep the quarantined synthetic demonstration artifacts with the handoff.
+!models/synthetic/
+!models/synthetic/**
+reports/figures/*
+!reports/figures/.gitkeep
+
+# Dashboard dependencies and build output
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.vite/
+*.tsbuildinfo
+
+# Local environment and editor files
+.env
+.vscode/
+.idea/
+Thumbs.db
+*.log
